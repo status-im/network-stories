@@ -4,4 +4,6 @@
   Jane holds a significant amount of voting power within this community as she's been contributing to it for years while Mark is relatively new.
 - Jane curates content
 - Jane creates content
+- Jane joins a new Community
+- Jane pays a bill with Community Karma
 -
