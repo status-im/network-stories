@@ -1,2 +1,2 @@
 - Jane wakes up
-- After reading a proposal in her
+- After reading a proposal in her XXX [[Community]] about implementing a new zero-knowledge solution for
