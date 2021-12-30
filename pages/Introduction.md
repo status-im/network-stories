@@ -2,4 +2,6 @@
 - Read  [[A day in the life of Jane]] to see a picture of what kind of life this technology potentially enables.
 - Read [[The Medium is the Message]] to learn how the technology we influences our relationships.
 -
-##
+## Thoughts
+- Imagine if the focus of what your digital assets was around _what_ they did for you instead how much they were worth.
+	-
