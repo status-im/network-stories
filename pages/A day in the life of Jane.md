@@ -6,4 +6,5 @@
 - Jane creates content
 - Jane joins a new Community
 - Jane pays a bill with Community Karma
+- Jane checks her [[Agent]]
 -
