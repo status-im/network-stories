@@ -1,2 +1,2 @@
 - Jane wakes up
-- After reading a proposal in her XXX [[Community]] about implementing a new zero-knowledge solution for votes, she is bewildered by the technical jargon but fascinated by its implications. The vote to pass the proposal only has 2 weeks left
+- After reading a proposal in her XXX [[Community]] about implementing a new zero-knowledge solution for votes, she is bewildered by the technical jargon but fascinated by its implications. She navigates to the voting dashboard to see more information, and notices the vote to pass the proposal only has 2 weeks left.
