@@ -1,1 +1,1 @@
-- Jane wakes up and checks her [[Status]]
+- Jane wakes up
