@@ -5,3 +5,4 @@
 ## Thoughts
 - Imagine if the focus of your digital assets was around _what_ they did for you instead how much they were worth.
 	- The value of such a viewpoint puts the utility of a given asset as a priority, and then allows you to reason about that utility's value.
+	- A portfolio turns into an access panel to diff
