@@ -1,1 +1,1 @@
-- This respository is
+- This repository is created to help describe the vision and need for the infrastructure supporting "The Status Network," which is a collection of technology that is used together to facilitate
