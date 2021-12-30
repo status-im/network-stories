@@ -1,1 +1,2 @@
 - Jane wakes up
+- After reading a proposal in her
