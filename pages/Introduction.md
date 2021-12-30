@@ -1,3 +1,4 @@
 - This repository is created to help describe the vision and need for the infrastructure supporting [[The Status Network]], which is a collection of technology that is used together to facilitate better human interaction.
-- Meet [[Jane]] to see a picture of what
+- Read  [[A day in the life of Jane]] to see a picture of what kind of life this technology potentially enables.
+-
 -
