@@ -3,4 +3,6 @@
 	- capture the attention of an audience.
 	- make revenue from that attention.
 - There seems to be a few ways in which you can monetize attention.
-	- You can leverage the attention by serving advertisements from folks that think their products have  a meaningful overlap with the interests of
+	- You can leverage the attention by serving advertisements from folks that think their products have  a meaningful overlap with the interests of those giving their attention.
+	- You can gate the access to the content being created
+	-
