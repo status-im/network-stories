@@ -10,6 +10,9 @@
 ## The consumer's situation
 - The consumer has a limited amount of attention they can spend on things. They must choose from the infinite material out there to consume. It is their goal to maximize the efficiency of this process such that they care about what they spend their time on.
 - The internet grows at a pace that is intractible to keep up to date with. The barrier of entry is practically none existent at this point
-- The consumer must know where to go to get content, and that place will have to use some sort of process to
+- The consumer must know where to go to get content, and that place will have to use some sort of process to organizating and serving content to them. The consumer will then use a place based on a few factors:
+	- availability of content
+	- ease of navigating to content desired
+	-
 ## The curator's situation
 -
