@@ -13,6 +13,7 @@
 - The consumer must know where to go to get content, and that place will have to use some sort of process to organizating and serving content to them. The consumer will then use a place based on a few factors:
 	- availability of content
 	- ease of navigating to content desired
-	-
+	- cost of access
+	- discovery of new content
 ## The curator's situation
 -
