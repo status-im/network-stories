@@ -1,4 +1,4 @@
-- This document attempts to outline the players in what I'm calling the Content Marketplace. I'm sure this term has been used, I'm sure that all of the things in
+- This document attempts to outline the players in what I'm calling the Content Marketplace. That is the landscape of content, its consumers, its curators, and all the technology that is used to I'm sure this term has been used, I'm sure that all of the things in here have been said. It's main to put much of what is needed to discuss the [[3-sided Content Marketplace]] later.
 -
 ## The content creator's situation
 - The current content market seems to be broken. Let's explore.
