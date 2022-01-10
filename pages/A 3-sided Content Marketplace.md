@@ -18,4 +18,5 @@
 	- discovery of new content
 ## The curator's situation
 - and that place will have to use some sort of process to organizating and serving content to them.
--
+- The curator must choose content from the vast amount of current and new material, grade it, and prioritize it.
+- A
