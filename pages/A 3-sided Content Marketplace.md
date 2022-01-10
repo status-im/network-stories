@@ -21,4 +21,5 @@
 - The curator must choose content from the vast amount of current and new material, grade it, and prioritize it.
 - a curator is a sifting mechanism of content. The finished product will always be biased by the subjective evaluations of the perspective of the curator.
 - A curator experiences success when content consumers appreciate that bias and leverage them for the content consumption and discovery process.
-- A curator can leverage algorithmic processes to automatically score material based on a myriad of weighted metrics. The weights and metrics are the bias of the curator, and are amplie
+- A curator can leverage algorithmic processes to automatically score material based on a myriad of weighted metrics. The weights and metrics are the bias of the curator, and are amplified in the finalized content the moment the algorithm classifies more content than the curator could do by hand (and the amount of time spent on the algorithm, metrics, and weights)
+-
