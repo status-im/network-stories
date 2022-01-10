@@ -19,4 +19,5 @@
 ## The curator's situation
 - and that place will have to use some sort of process to organizating and serving content to them.
 - The curator must choose content from the vast amount of current and new material, grade it, and prioritize it.
-- a curator is a sifting mechanism of content which will always be biased by the subjective evaluations of the perspective of the curator.
+- a curator is a sifting mechanism of content. The finished product will always be biased by the subjective evaluations of the perspective of the curator.
+- A curator will experience success when there is a
