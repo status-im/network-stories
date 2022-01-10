@@ -1,1 +1,3 @@
-- The current content market
+- The current content market seems to be broken. Let's explore.
+- A content creator, if needing to be self sustainable, needs to do a few things
+	- capture the attention of an audience.
