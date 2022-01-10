@@ -8,4 +8,6 @@
 	- they can gate the access to the content being created
 	- they can sell the content being created
 ## The consumer's situation
-- The consumer has a limited amount of attention they can spend on things. They must choose from the infinite material out there. In order to this today, they rely on
+- The consumer has a limited amount of attention they can spend on things. They must choose from the infinite material out there.
+## The curator's situation
+-
