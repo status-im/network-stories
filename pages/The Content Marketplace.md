@@ -1,3 +1,5 @@
+- This document attempts to outline the players in what I'm calling the Content Marketplace. I'm sure this term has been used, I'm sure that all of the things in
+-
 ## The content creator's situation
 - The current content market seems to be broken. Let's explore.
 - A content creator, if needing to be self sustainable, needs to do a few things

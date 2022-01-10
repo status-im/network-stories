@@ -7,5 +7,5 @@
 	- The value of such a viewpoint puts the utility of a given asset as a priority, and then allows you to reason about that utility's value (or perceived value).
 	- A portfolio turns into an access panel to different functions within different communities.
 	- Price becomes a measurement of what someone is willing to pay for that access and functionality.
-- [[A 3-sided Content Marketplace]]
+- [[The Content Marketplace]]
 -
