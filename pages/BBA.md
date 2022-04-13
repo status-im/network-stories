@@ -1,4 +1,4 @@
-Phrase: 
+Phrase: Binary Byzantine Agreement (BBA)
 
 Related:
 

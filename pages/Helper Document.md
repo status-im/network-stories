@@ -185,7 +185,85 @@ See below 'Recipe' and modify accordingly to above in Figma.
 
 
 #### Network Layer and Mempool
-
+- [[Node Discovery]]
+- [[Subnetworks]]
+	- Design
+	- Implementation
+	- Ideas
+- [[Mempool]]
+	- Challenges
+	- Approach
+	- Mempool Design
+	
 #### Staking and Multi-DAG
+- [[Factory of DAGs]]
+	- Concept
+	- Algorithm
+- [[Sub-DAG]]
+- [[Cross-DAG]]
+- [[Bridge (Intermediary) Nodes]]
+- [[Gravity]]
+- [[Application-Level User-Driven]]
+- [[Direct Communication Channel]]
+- [[Direct Communication VGER]]
+- [[Challenges]]
+	- Probabilistic finality and cross-network communication
+	- Network partitioning, forks and cross-network communication
+	- Weak Subjectivity - Reputation of nodes matters to clients. Nodes are clients of other networks.
+	- [[Staking: Verifying Weights]]
+	- [[Glacier Algorithm Quiesces]]
+- [[Approach]]
+	1. [[Deterministic Finality]]
+	2. [[Secondary Consensus Protocol]] (form local opinion on external DAG)
+	3. [[Intermediary DAG]] (Intersection of nodes participating mutually in common structures)
+- [[Vertex Sealing]]
+- [[XSub]] (Cross-sub-DAG communication)
+- [[XDAG]] (Cross-DAG communication)
+- [[XDAG Fees]]
+- [[Communication Patterns]]
+	- Direct
+	- User-Coordinated Channel
+	- Sub-DAG-Coordinated Channel
+- [[Stake Sub-DAG]]
+	- [[Totally-Ordered Chain]]
+	- [[Global Knowledge]]
+	- [[Alternative Designs]]
+		- [[2P-Set]]
+		- [[Per-Node Branch]]
+		
 #### Data Model and Concurrency
+- Reference Work
+	- [[eUTXO]]
+		- References (Cardano foundational paper)
+		- Direct extension of the basic UTXO model
+		- Validator
+		- Datum
+		- Redeemer
+		- Ledger Description
+	- [[CKB]]
+		- Key feature: state space ownership
+		- Cell description
+		- Transaction description
+	- [[Zexe]]
+		- Key Feature: Privacy
+		- Transaction Description
+		- Record Description
+- Approach
+- [[Data Model Design]]
+	- Challenges
+	- Concept
+	- Data Structures and Constraints
+- [[Concurrent Execution (Threads)]]
+- [[Execution Patterns]]
+	- Useful patterns
+		- Example of EVM execution on this model
+		- Explore and describe
+	- Anti-patterns
+		- High Contention
+		- Low Affinity
+		
 #### Tokenomics
+- [[Fees]]
+- [[Rewards]]
+- [[Slashing]]
+- [[MEV]]
