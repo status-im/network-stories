@@ -44,6 +44,9 @@ See below 'Recipe' and modify accordingly to above in Figma.
 - Terminology Template: [[here]]
 #### Consensus
 - [[BBA]]
+	- Difficulty: [&#124;&#124;&#124;&#124;&#124;&#124;&#124;&#124;&#124;&#124;]
+	- Time: 5m
+	- Resources: 
 - [[Leaderless]]
 - [[DAGs]]
 - [[CIC]]
@@ -111,7 +114,7 @@ See below 'Recipe' and modify accordingly to above in Figma.
 		- Min-Multiplicative Reputation Punishment
 			- Multiplicative
 			- Linear
-	- Experimental Research
+	- [[Experimental Research]]
 		- Starting Point
 			- Trust Wisdom per Node (requires further elaboration)
 			- Adversary Types and Effects (requires further elaboration)
