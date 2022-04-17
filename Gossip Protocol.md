@@ -1,10 +1,8 @@
-# Phrase: 
+# Phrase: Gossip Protocol
 
-### Related: 
+### Related: #p2p
 
 ## Operating Definition: 
--using self
--using others
 
 	ELI5: 
 

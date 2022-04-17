@@ -1,15 +1,19 @@
-Phrase: 
-Sybil Resistance (also related to Sybil Defense Mechanisms)
+# Phrase: 
 
-Operating Definition:
-Need some "weight" to decision-making otherwise it becomes easy for other people to spin up a bunch of identities that can become "threat actors" to your system by swaying your consensus mechanism.
+### Related: 
 
-Current Implementation:
+## Operating Definition: 
 
-The Idea(l):
+	ELI5: 
 
-Logos Implementation: 
+## Current "Standard" Implementation: 
 
-IMPORTANT Differentiators:
+## The Idea(l):
 
-Trash Heap:
+## Logos Implementation:
+
+## Live Feedback
+
+## IMPORTANT Differentiators:
+
+## Trash Heap:

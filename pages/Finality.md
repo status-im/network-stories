@@ -1,14 +1,19 @@
-Phrase: 
-Finality
+# Phrase: 
 
-Operating Definition: The ability for a network to come to agreement on a block of information quickly (hopefully around sub-second to 2 second range). 10 minute block times are out of the question (too slow i.e., Bitcoin). 
+### Related: 
 
-Current Implementation:
+## Operating Definition: 
 
-The Idea(l):
+	ELI5: 
 
-Logos Implementation: 
+## Current "Standard" Implementation: 
 
-IMPORTANT Differentiators:
+## The Idea(l):
 
-Trash Heap:
+## Logos Implementation:
+
+## Live Feedback
+
+## IMPORTANT Differentiators:
+
+## Trash Heap:

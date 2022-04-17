@@ -1,15 +1,19 @@
-Phrase: 
+# Phrase: 
 
-Related:
+### Related: 
 
-Operating Definition: 
+## Operating Definition: 
 
-Current Implementation:
+	ELI5: 
 
-The Idea(l):
+## Current "Standard" Implementation: 
 
-Logos Implementation: 
+## The Idea(l):
 
-IMPORTANT Differentiators:
+## Logos Implementation:
 
-Trash Heap:
+## Live Feedback
+
+## IMPORTANT Differentiators:
+
+## Trash Heap:

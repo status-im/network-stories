@@ -1,15 +1,20 @@
-Phrase: 
+# Phrase: Leaderless
 
-Related:
+### Related: #consensus
 
-Operating Definition: 
+## Operating Definition: 
+Processes exchange their proposals, retain the maximum value and decide when they see the same choice across a couple of rounds.<sup>1</sup>
 
-Current Implementation:
+	ELI5:
 
-The Idea(l):
+## Current Implementation:
 
-Logos Implementation: 
+## The Idea(l):
 
-IMPORTANT Differentiators:
+## Logos Implementation: 
 
-Trash Heap:
+## Live Feedback
+
+## IMPORTANT Differentiators:
+
+## Trash Heap:

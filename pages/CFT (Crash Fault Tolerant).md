@@ -1,14 +1,19 @@
-Phrase: Crash Fault Tolerant/Tolerance
+# Phrase: 
 
-Operating Definition: 
-The ability for any "standard" distributed consensus network to be able to have faulty nodes and still operate correctly.
+### Related: 
 
-Current Implementation:
+## Operating Definition: 
 
-The Idea(l):
+	ELI5: 
 
-Logos Implementation: 
+## Current "Standard" Implementation: 
 
-IMPORTANT Differentiators:
+## The Idea(l):
 
-Trash Heap:
+## Logos Implementation:
+
+## Live Feedback
+
+## IMPORTANT Differentiators:
+
+## Trash Heap:

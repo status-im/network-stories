@@ -1,15 +1,25 @@
-Phrase: Binary Byzantine Agreement (BBA)
+# Phrase: Binary Byzantine Agreement (BBA)
 
-Related:
+### Related: #consensus
 
-Operating Definition: 
+## Operating Definition: 
+Binary byzantine consensus concerns the problem of getting a set of distinct processes distributed across a network to agree on a single binary value 0 or 1 where processes can fail in arbitrary ways.<sup>1</sup>
 
-Current Implementation:
+	ELI5: The proposal, decision-making process, and eventual conclusion/convergence of a two-option Byzantine-contexted scenario.
 
-The Idea(l):
+## Current Implementation: 
+See #PoW and #PoS consensus mechanisms of which can be high-level organized into three academic categories:
+1. [[Classical]]
+2. [[Nakamoto]]
+3. [[DAG-Based Consensus (Avalanche-like)]]
 
-Logos Implementation: 
+## The Idea(l): 
 
-IMPORTANT Differentiators:
+## Logos Implementation: 
+[[Glacier]]
 
-Trash Heap:
+## Live Feedback:
+
+## IMPORTANT Differentiators: 
+
+## Trash Heap:

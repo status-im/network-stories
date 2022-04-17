@@ -6,30 +6,28 @@
       {
         "id": "a4e3ed3adec56c10",
         "type": "leaf",
-        "dimension": 52.28031145717463,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "pages/Helper Document.md",
             "mode": "source",
             "source": false
-          }
-        },
-        "group": "768ec003cffa6b11"
+          },
+          "pinned": true
+        }
       },
       {
-        "id": "17af015f03c3fa79",
+        "id": "a22ed3c6b7139764",
         "type": "leaf",
-        "dimension": 47.71968854282537,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Helper Document.md",
-            "mode": "preview",
+            "file": "pages/Communication Costs.md",
+            "mode": "source",
             "source": false
           }
-        },
-        "group": "768ec003cffa6b11"
+        }
       }
     ],
     "direction": "vertical"
@@ -56,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#rounds",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +63,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5a82e9ac98b3e694",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Helper Document.md",
+                "file": "pages/Communication Costs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,12 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a4e3ed3adec56c10",
+  "active": "a22ed3c6b7139764",
   "lastOpenFiles": [
+    "pages/Communication Costs.md",
     "pages/Helper Document.md",
-    "pages/here.md",
-    "pages/BBA.md",
-    "pages/Bootstrapping Quickly.md",
-    "pages/A day in the life of Jane.md"
+    "pages/Security.md",
+    "pages/Decentralization.md",
+    "Gossip Protocol.md",
+    "pages/Permissionless.md",
+    "P2P Messaging.md",
+    "pages/Scalability.md",
+    "pages/Messaging.md",
+    "pages/CIC.md"
   ]
 }

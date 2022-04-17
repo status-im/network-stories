@@ -1,22 +1,26 @@
-Phrase: Glacier
+# Phrase: Glacier 
 
-Related:
+### Related: 
 
-Operating Definition: Better Avalanche consensus lol.
+## Operating Definition: 
 
-Current Implementation:
-1. Querying
-2. Computing
-	1. Confidence
-	2. Evidence
-	3. Accumulated Evidence
-3. Transition
-4. Opinion & Decision (Flip or Settle)
+	ELI5: Improved Avalanche consensus.
 
-The Idea(l):
+## Current "Standard" Implementation: 
 
-Logos Implementation: 
+## The Idea(l):
 
-IMPORTANT Differentiators:
+## Logos Implementation:
+	1. Querying
+	2. Computing
+		1. Confidence
+		2. Evidence
+		3. Accumulated Evidence
+	3. Transition
+	4. Opinion & Decision (Flip or Settle)
 
-Trash Heap:
+## Live Feedback
+
+## IMPORTANT Differentiators:
+
+## Trash Heap:
