@@ -68,12 +68,17 @@ Ingredients (*Resources*) is for links relevant to helping people understand the
 	- Cook Time: X min
 	- Ingredients:
 		1. See 'Consensus' section within Logos Specifications
-- [[Messaging]] (check networking systems context messaging vs gossip protocols)
+- [[P2P Messaging]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
 		1. https://en.wikipedia.org/wiki/Peer-to-peer
-- [[Gossip Protocol]] (check)
+- [[Message Passing]] (is a general framework, P2P Messaging is a subset of Message Passing)
+	- Prep: [||||||||||]
+	- Cook Time: X min
+	- Ingredients:
+		1. 
+- [[Gossip Protocol]] (is a subset of P2P Messaging)
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
@@ -88,52 +93,67 @@ Ingredients (*Resources*) is for links relevant to helping people understand the
 	- Cook Time: X min
 	- Ingredients:
 		1. https://eprint.iacr.org/2021/023.pdf
+		2. https://medium.com/vechain-foundation/what-does-scalability-really-mean-in-blockchain-b8b13b3181c6
+		3. https://101blockchains.com/blockchain-scalability-challenges/
 - [[Decentralization]] 
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
-		1. 
+		1. https://en.wikipedia.org/wiki/Decentralization
+		2. https://blockworks.co/measuring-decentralization-is-your-crypto-decentralized/
+		3. https://jods.mitpress.mit.edu/pub/7vxemtm3/release/2
 - [[Security]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
-		1.
-- [[Communication Costs]]
+		1. https://arxiv.org/pdf/1802.06993.pdf
+- [[Communication Costs]] (wrt message complexity - see how this extends into hardware)
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
-		1.
+		1. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.883&rep=rep1&type=pdf#:~:text=message%20complexity%20denotes%20the%20maximum,last%20node%20completes%20the%20algorithm.
 - [[Stream or Subgraph]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
-		1.
+		1. https://thegraph.com/docs/en/developer/define-subgraph-hosted/
+		2. https://streamingfastio.medium.com/streamingfacts-understanding-the-costs-of-upgrading-a-subgraph-fedf5d61223 (is this related?)
 - [[Staking]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
-		1.
+		1. https://deliverypdf.ssrn.com/delivery.php?ID=112001112005005071028123005115028071053009053038065056030075021066021091100007083094098007039126015013042085120028028079118118027039038017006093067005067006124005093039032030000094104124024001105026027114005123097090090111113068087076002030115100122071&EXT=pdf&INDEX=TRUE
+		2. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3609817
+		3. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4059460
 - [[Sybil Resistance]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
-		1.
+		1. https://en.wikipedia.org/wiki/Sybil_attack
 - [[CFT (Crash Fault Tolerant)]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
-		1.
+		1. https://medium.com/@chamirachid/your-journey-to-consensus-part-1-6a88a6f818f65
+		2. https://en.wikipedia.org/wiki/Fault_tolerance5
+		3. https://dl.acm.org/doi/pdf/10.1145/102792.102801
 - [[BFT (Byzantine Fault Tolerant)]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
-		1.
+		1. https://en.wikipedia.org/wiki/Byzantine_fault
+- [[PBFT (Practical Byzantine Fault Tolerant)]]
+	- Prep: [||||||||||]
+	- Cook Time: X min
+	- Ingredients:
+		1. https://www.geeksforgeeks.org/practical-byzantine-fault-tolerancepbft/#:~:text=Practical%20Byzantine%20Fault%20Tolerance%20is,optimized%20for%20low%20overhead%20time.
+		2. https://www.usenix.org/legacy/events/nsdi09/tech/full_papers/clement/clement.pdf
 - [[Finality]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
-		1.
-- [[Social Applications]]
+		1. https://medium.com/mechanism-labs/finality-in-blockchain-consensus-d1f83c120a9a5
+- [[Social Applications]] (look up context)
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
@@ -142,7 +162,7 @@ Ingredients (*Resources*) is for links relevant to helping people understand the
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
-		1.
+		1. https://en.wikipedia.org/wiki/Bootstrapping_node#:~:text=A%20bootstrapping%20node%2C%20also%20known,successfully%20join%20the%20overlay%20network.
 - [[Rounds]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
@@ -154,11 +174,6 @@ Ingredients (*Resources*) is for links relevant to helping people understand the
 	- Ingredients:
 		1.
 - [[Paxos]]
-	- Prep: [||||||||||]
-	- Cook Time: X min
-	- Ingredients:
-		1.
-- [[PBFT]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:

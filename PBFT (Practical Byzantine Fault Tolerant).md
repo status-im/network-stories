@@ -1,10 +1,10 @@
-# Phrase: Decentralization
+# Phrase:  Practical Byzantine Fault Tolerant
 
 ### Related: 
 
 ## Operating Definition: 
 
-	ELI5: How concentrated a given metric is.
+	ELI5: 
 
 ## Current "Standard" Implementation: 
 

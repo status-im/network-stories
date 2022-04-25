@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Communication Costs.md",
+            "file": "pages/Finality.md",
             "mode": "source",
             "source": false
           }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#rounds",
+                "query": "tag:#distributed-systems",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Communication Costs.md",
+                "file": "pages/Helper Document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +102,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a22ed3c6b7139764",
+  "active": "a4e3ed3adec56c10",
   "lastOpenFiles": [
-    "pages/Communication Costs.md",
     "pages/Helper Document.md",
-    "pages/Security.md",
-    "pages/Decentralization.md",
-    "Gossip Protocol.md",
-    "pages/Permissionless.md",
-    "P2P Messaging.md",
+    "pages/Finality.md",
+    "pages/DAGs.md",
+    "pages/BFT (Byzantine Fault Tolerant).md",
+    "pages/CFT (Crash Fault Tolerant).md",
+    "pages/Sybil Resistance.md",
+    "pages/Staking.md",
     "pages/Scalability.md",
-    "pages/Messaging.md",
-    "pages/CIC.md"
+    "pages/here.md",
+    "pages/BBA.md"
   ]
 }

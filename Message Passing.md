@@ -1,10 +1,9 @@
-# Phrase: Decentralization
+# Phrase: Message Passing
 
-### Related: 
+### Related: #p2p
 
 ## Operating Definition: 
-
-	ELI5: How concentrated a given metric is.
+	ELI5: Process of creation, routing, and receival of one entity sending a message to another.
 
 ## Current "Standard" Implementation: 
 

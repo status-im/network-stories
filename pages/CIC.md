@@ -5,10 +5,12 @@
 ## Operating Definition: 
 A group of nodes that share key characteristics<sup>1</sup> of:
 	1. Scale of ~10 nodes, while others could (potentially) scale up to current blockchain limits
-	2. Varying degrees of inter-comunication and interdependence
+	2. Varying degrees of inter-communication and interdependence
 	3. "CICs... could exist completely independently as a separate infrastructure."
 
-	ELI5: A group of people that is trying to come together on a piece of data and can break away from the default subnet (Avalanche forces participation in default subnet).
+	ELI5: A group of people that is trying to come together on data and can break away from the default subnet (Avalanche forces participation in default subnet).
+	TODO: Expand or reform552.
+	
 
 ## Current Implementation:
 On Ethereum, the process of agreement is done by everyone in the entire network. If someone has a decision that needs to come to agreement on, the entire network has to process that data.

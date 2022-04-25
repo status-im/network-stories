@@ -1,10 +1,10 @@
-# Phrase: 
+# Phrase: Paxos
 
 ### Related: 
 
 ## Operating Definition: 
 
-	ELI5: 
+	ELI5: A family of protocols that 
 
 ## Current "Standard" Implementation: 
 

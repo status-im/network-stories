@@ -1,10 +1,10 @@
-# Phrase: 
+# Phrase: Security
 
 ### Related: 
 
 ## Operating Definition: 
 
-	ELI5: 
+	ELI5: Not losing your shit unless you want to.
 
 ## Current "Standard" Implementation: 
 

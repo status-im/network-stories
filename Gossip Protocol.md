@@ -4,7 +4,7 @@
 
 ## Operating Definition: 
 
-	ELI5: 
+	ELI5: P2P message passing protocol in which a node that receives a message selectively forwards that message to its peers.
 
 ## Current "Standard" Implementation: 
 

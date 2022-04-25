@@ -1,4 +1,4 @@
-# Phrase: 
+# Phrase: Byzantine Fault Tolerant
 
 ### Related: 
 

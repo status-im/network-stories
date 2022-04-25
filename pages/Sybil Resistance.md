@@ -1,10 +1,10 @@
-# Phrase: 
+# Phrase: Sybil Resistance
 
 ### Related: 
 
 ## Operating Definition: 
 
-	ELI5: 
+	ELI5: Some sort of way to prevent too disruptive things from wrecking the vibe.
 
 ## Current "Standard" Implementation: 
 

@@ -1,4 +1,4 @@
-# Phrase: 
+# Phrase: Staking
 
 ### Related: 
 
