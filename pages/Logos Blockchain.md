@@ -42,29 +42,32 @@ Ingredients (*Resources*) is for links relevant to helping people understand the
 
 ---
 ### The Six (6) Technology Layers of Logos as a Blockchain
+
+tl;dr one to two sentences that group these phrases together
+
 - Terminology Template (Recipe): [[here]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients: [pictures, videos, article links, research papers, etc.]
 #### Consensus
 - [[BBA]]
-	- Prep: [||||||||||]
+	- Prep: [||        ]
 	- Cook Time: X min
 	- Ingredients:
 		1. https://arxiv.org/pdf/2001.07867.pdf
 - [[Leaderless ]]
-	- Prep: [||||||||||]
+	- Prep: [|||||     ]
 	- Cook Time: X min
 	- Ingredients:
 		1. https://ieeexplore.ieee.org/document/9546485
 - [[DAGs]]
-	- Prep: [||||||||||]
+	- Prep: [|        ]
 	- Cook Time: X min
 	- Ingredients:
 		1. https://en.wikipedia.org/wiki/Directed_acyclic_graph
 		2. https://tokens-economy.gitbook.io/consensus/chain-based-dag/direct-acyclic-graph-tangle-dag
 - [[CIC]]
-	- Prep: [||||||||||]
+	- Prep: [|        ]
 	- Cook Time: X min
 	- Ingredients:
 		1. See 'Consensus' section within Logos Specifications
@@ -663,3 +666,9 @@ Ingredients (*Resources*) is for links relevant to helping people understand the
 	- Cook Time: X min
 	- Ingredients:
 		1. 
+
+
+## Relevant Projects
+### [[Codex]]
+### [[Waku]]
+### [[VAC]]
