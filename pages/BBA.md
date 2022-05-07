@@ -9,16 +9,13 @@
 Binary byzantine consensus concerns the problem of getting a set of distinct processes distributed across a network to agree on a single binary value 0 or 1 where processes can fail in arbitrary ways.<sup>1</sup>
 
 ## Current Implementation: 
-See #PoW and #PoS consensus mechanisms of which can be high-level organized into three academic categories:
-1. [[Classical]]
-2. [[Nakamoto]]
-3. [[DAG-Based Consensus (Avalanche-like)]]
+N/A
 
 ## The Idea(l): 
 Talk to Alvaro to fill this in.
 
 ## Logos Implementation: 
-[[Glacier]]
+Glacier
 
 ## Live Feedback:
 Discord Server: Status Discord Server

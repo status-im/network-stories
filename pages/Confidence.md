@@ -11,7 +11,7 @@
 ## The Idea(l):
 
 ## Logos Implementation: 
-[Ikingut (Reputation Algorithm)](Ikingut%20(Reputation%20Algorithm).md)
+Ikingut (Reputation Algorithm)
 
 ## Live Feedback
 

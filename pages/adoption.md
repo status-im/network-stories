@@ -17,7 +17,7 @@
 [The research target/goal/PoC implementation currently under testing/experimentation.]
 
 ## Live Feedback
-[Add a LIVE location where the research and/or development teams can be pinged in a specific text-channel dedicated to this that is within their specific Discord server so that conversation can be bridged between projects and on a program level in order to best plug into resolving better than current understanding on this specific topic. I.e., Vac/Waku/Codex/Logo Discord server and a specific text-channel for this concept like -(insert one of six layers under research).]
+[Add a LIVE location where the research and/or development teams can be pinged in a specific text-channel dedicated to this that is within their specific Discord server so that conversation can be bridged between projects and on a program level in order to best plug into resolving better than current understanding on this specific topic. I.e., Vac/Waku/Codex/Logo Discord server and a specific text-channel for this concept like (hashtag)chefhelp- (insert one of six layers under research).]
 
 ## IMPORTANT Differentiators:
 [Easy low-hanging marketing or comms fruit that makes Logos implementation clearly different/better.]
@@ -33,24 +33,6 @@
 ### Related: 
 
 ## Operating Definition: 
-
-## Current "Standard" Implementation: 
-
-## The Idea(l):
-
-## Logos Implementation:
-
-## Live Feedback
-
-## IMPORTANT Differentiators:
-
-## Trash Heap:
-# Phrase: Messaging
-
-### Related: #p2p
-
-## Operating Definition: 
-	ELI5: 5
 
 ## Current "Standard" Implementation: 
 

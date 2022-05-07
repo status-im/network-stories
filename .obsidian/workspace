@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "90951b51378e39c2",
+        "id": "3226a81f7aee73f6",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "graph",
-          "state": {}
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -49,7 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.0028419494629,
+    "width": 249,
     "collapsed": true
   },
   "right": {
@@ -71,8 +73,8 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -83,17 +85,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "90951b51378e39c2",
+  "active": "3226a81f7aee73f6",
   "lastOpenFiles": [
-    "Codex.md",
-    "VAC.md",
-    "placeholder41.md",
-    "generalized.md",
-    "secure.md",
-    "modular.md",
-    "waku-connect.md",
-    "Waku.md",
-    "research-consensus.md",
-    "routing.md"
+    "pages/Codex Research Notes.md",
+    "pages/Logos Project.md",
+    "pages/Consensus.md",
+    "pages/2P-Set.md",
+    "pages/Pasted image 20220415164934.png",
+    "pages/Waku Project.md",
+    "pages/Codex Project.md",
+    "pages/VAC Project.md",
+    "pages/README.md",
+    "pages/3-sided Content Marketplace.md"
   ]
 }
