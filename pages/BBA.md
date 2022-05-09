@@ -1,28 +1,36 @@
-# Phrase: Binary Byzantine Agreement (BBA)
+---
 
-### Related: #consensus
+title:
+author:
+date:
 
-	ELI5: The proposal, decision-making process, and eventual conclusion/convergence of a two-option Byzantine-contexted scenario.
-	Process of a distributed network coming to an agreement between two options.
+---
 
-## Operating Definition: 
+# Topic: Binary Byzantine Agreement (BBA)
+#### Related:
+`ELI5: The proposal, decision-making process, and eventual conclusion/convergence of a two-option Byzantine-contexted scenario. Process of a distributed network coming to an agreement between two options.`
+
+---
+
+## Overview
+
+#### Operating Definition:
 Binary byzantine consensus concerns the problem of getting a set of distinct processes distributed across a network to agree on a single binary value 0 or 1 where processes can fail in arbitrary ways.<sup>1</sup>
 
-## Current Implementation: 
+#### Current "Standard" Implementation:
 N/A
 
-## The Idea(l): 
+#### The Idea(l):
 Talk to Alvaro to fill this in.
 
-## Logos Implementation: 
+#### Logos Implementation:
 Glacier
 
-## Live Feedback:
+#### Live Feedback
 Discord Server: Status Discord Server
 Text-Channel: #research-consensus
 
-## IMPORTANT Differentiators: 
-N/A
+#### IMPORTANT Differentiators:
 
-## Trash Heap:
-N/A
+
+#### Knowledge Share:

@@ -1,16 +1,17 @@
 ---
-title: Understanding Waku Efforts
+title: Understanding Vac Efforts
 author: Broke
 date: 2022-05-07
 ---
 
-# Understanding Waku Efforts
+# Understanding Vac Efforts
 ---
 
 **Purpose**
 [Insert Purpose]
 
->[insert quote]
+>**"_To grok something_ means to understand it intuitively or empathetically."**
+Oskar Thoren
 
 ---
 
@@ -23,11 +24,7 @@ date: 2022-05-07
 |Time      | In Minutes | X Minutes |
 |Resources | Article/Video Links w/ Visual Content | Conceptual & Pictoral "Ingredients List" of Links|
 
-See below 'Recipe' and modify accordingly to above in Figma.
-
-	![[Pasted image 20220415164934.png]]
----
-## **Operating Definitions:**
+### **Operating Definitions:**
 
 Prep (*Difficulty*) is defined as the ease of which the concepts can be generally understood. (Future: Make into more fun visual or something more enjoyable than a difficulty bar.)
 
@@ -37,7 +34,17 @@ Ingredients (*Resources*) is for links relevant to helping people understand the
 
 	Future Work: Adjust difficulty/time ratings, cook time respec. based on feedback from everyone at DXB.
 
----
+See Sample below:
+- Recipe (Terminology): [template](https://www.notion.so/network-stories-ff98e2e63a8447ddbfe2bf3af8c2a8cb)
+	- Prep: [||||||||||]
+	- Cook Time: X min
+	- Ingredients: [pictures, videos, article links, research papers, etc.]
+
+See below 'Recipe' and modify accordingly to above in Figma.
+
+	![[Pasted image 20220415164934.png]]
+
+___
 
 ## Necessary Terminology
 [[incentivization]]
@@ -52,7 +59,7 @@ Ingredients (*Resources*) is for links relevant to helping people understand the
 [[spam-protection ]]
 [[anonymity ]]
 [[privacy ]]
-[[Messaging ]]
+[[messaging ]]
 [[secure-messaging ]]
 [[censorship-resistant ]]
 [[regulation ]]
@@ -65,3 +72,9 @@ Ingredients (*Resources*) is for links relevant to helping people understand the
 [[operators ]]
 [[research ]]
 [[research-consensus ]]
+[[routing]]
+[[Project Waku]]
+[[waku-connect]]
+[[modular]]
+[[generalized]]
+[[secure]]

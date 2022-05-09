@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3226a81f7aee73f6",
+        "id": "476c0b822fb9c253",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "graph",
-          "state": {},
-          "pinned": true
+          "state": {}
         }
       }
     ],
@@ -38,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Topic Template",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -51,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249,
-    "collapsed": true
+    "width": 200.0028419494629
   },
   "right": {
     "id": "5a82e9ac98b3e694",
@@ -73,8 +70,8 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -85,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3226a81f7aee73f6",
+  "active": "476c0b822fb9c253",
   "lastOpenFiles": [
-    "pages/Codex Research Notes.md",
-    "pages/Logos Project.md",
+    "pages/Topic Template.md",
+    "pages/Logos Program.md",
+    "pages/Project Logos.md",
     "pages/Consensus.md",
-    "pages/2P-Set.md",
-    "pages/Pasted image 20220415164934.png",
-    "pages/Waku Project.md",
-    "pages/Codex Project.md",
-    "pages/VAC Project.md",
-    "pages/README.md",
-    "pages/3-sided Content Marketplace.md"
+    "pages/BBA.md",
+    "pages/Project Vac.md",
+    "pages/Project Codex.md",
+    "pages/Project Waku.md",
+    "pages/DAG-Based Consensus (Avalanche-like).md",
+    "pages/Untitled.md"
   ]
 }

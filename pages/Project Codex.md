@@ -1,17 +1,17 @@
 ---
-title: Understanding Vac Efforts
+title: Understanding Codex Efforts
 author: Broke
 date: 2022-05-07
 ---
 
-# Understanding Vac Efforts
+# Understanding Codex Efforts
 ---
 
 **Purpose**
 [Insert Purpose]
 
->**"_To grok something_ means to understand it intuitively or empathetically."**
-Oskar Thoren
+>**"_I like working on fundamental problems."**
+Dmitriy Ryajov
 
 ---
 
@@ -24,7 +24,11 @@ Oskar Thoren
 |Time      | In Minutes | X Minutes |
 |Resources | Article/Video Links w/ Visual Content | Conceptual & Pictoral "Ingredients List" of Links|
 
-### **Operating Definitions:**
+See below 'Recipe' and modify accordingly to above in Figma.
+
+	![[Pasted image 20220415164934.png]]
+---
+## **Operating Definitions:**
 
 Prep (*Difficulty*) is defined as the ease of which the concepts can be generally understood. (Future: Make into more fun visual or something more enjoyable than a difficulty bar.)
 
@@ -34,47 +38,23 @@ Ingredients (*Resources*) is for links relevant to helping people understand the
 
 	Future Work: Adjust difficulty/time ratings, cook time respec. based on feedback from everyone at DXB.
 
-See Sample below:
-- Recipe (Terminology): [template](https://www.notion.so/network-stories-ff98e2e63a8447ddbfe2bf3af8c2a8cb)
-	- Prep: [||||||||||]
-	- Cook Time: X min
-	- Ingredients: [pictures, videos, article links, research papers, etc.]
-
-See below 'Recipe' and modify accordingly to above in Figma.
-
-	![[Pasted image 20220415164934.png]]
-
-___
+---
 
 ## Necessary Terminology
+
+[[storage]]
+[[data]]
+[[durability]] 
+[[erasure-coding]]
 [[incentivization]]
-[[zero-knowledge ]]
-[[libp2p ]]
-[[protocols ]]
-[[cryptography ]]
-[[specifications ]]
-[[discovery ]]
-[[data-availability ]]
-[[DHT ]]
-[[spam-protection ]]
-[[anonymity ]]
-[[privacy ]]
-[[Messaging ]]
-[[secure-messaging ]]
-[[censorship-resistant ]]
-[[regulation ]]
-[[credible-neutrality ]]
-[[adoption ]]
-[[hypothesis ]]
-[[market-hypothesis ]]
-[[platforms ]]
-[[storage ]]
-[[operators ]]
-[[research ]]
-[[research-consensus ]]
-[[routing]]
-[[Waku Project]]
-[[waku-connect]]
-[[modular]]
-[[generalized]]
-[[secure]]
+[[marketplace]]
+[[DHT]]
+[[discovery]]
+[[network]]
+[[libp2p]]
+[[devp2p]]
+[[peers]]
+[[records]]
+[[messaging]]
+[[zero-knowledge]]
+[[privacy]]

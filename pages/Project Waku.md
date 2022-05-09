@@ -1,17 +1,16 @@
 ---
-title: Understanding Codex Efforts
+title: Understanding Waku Efforts
 author: Broke
 date: 2022-05-07
 ---
 
-# Understanding Codex Efforts
+# Understanding Waku Efforts
 ---
 
 **Purpose**
 [Insert Purpose]
 
->**"_I like working on fundamental problems."**
-Dmitriy Ryajov
+>[insert quote]
 
 ---
 
@@ -41,20 +40,28 @@ Ingredients (*Resources*) is for links relevant to helping people understand the
 ---
 
 ## Necessary Terminology
-
-[[storage]]
-[[data]] 
-[[durability]] 
-[[erasure-coding]]
 [[incentivization]]
-[[marketplace]]
-[[DHT]]
-[[discovery]]
-[[network]]
-[[libp2p]]
-[[devp2p]]
-[[peers]]
-[[records]]
-[[Messaging]]
 [[zero-knowledge]]
+[[libp2p]]
+[[protocols]]
+[[cryptography]]
+[[specifications]]
+[[discovery]]
+[[data-availability]]
+[[DHT]]
+[[spam-protection]]
+[[anonymity]]
 [[privacy]]
+[[messaging]]
+[[secure-messaging]]
+[[censorship-resistant]]
+[[regulation]]
+[[credible-neutrality]]
+[[adoption]]
+[[hypothesis]]
+[[market-hypothesis ]]
+[[platforms ]]
+[[storage ]]
+[[operators ]]
+[[research ]]
+[[research-consensus ]]

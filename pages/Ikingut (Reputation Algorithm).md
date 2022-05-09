@@ -1,21 +1,36 @@
-# Phrase: Ikingut 
-(means friend in Greenlandic)
-[https://www.imdb.com/title/tt0271003/plotsummary?ref_=tt_ov_pl](https://www.imdb.com/title/tt0271003/plotsummary?ref_=tt_ov_pl)
+---
 
-### Related: #consensus #reputation
+title:
+author:
+date:
 
-## Operating Definition: 
+---
 
-	ELI5: 
+# Topic: Ikingut (Reputation Algorithm)
+#### Related: #consensus #reputation 
+`ELI5: Ikingust (means friend in Icelandic) is a Reputation and trust-based consensus mechanism.
+[https://www.imdb.com/title/tt0271003/plotsummary?ref_=tt_ov_pl](https://www.imdb.com/title/tt0271003/plotsummary?ref_=tt_ov_pl)`
 
-## Current "Standard" Implementation: 
+---
 
-## The Idea(l):
+## Overview
 
-## Logos Implementation:
+#### Operating Definition:
+[Definition here]<sup>1</sup>
 
-## Live Feedback
+#### Current "Standard" Implementation:
 
-## IMPORTANT Differentiators:
 
-## Trash Heap:
+#### The Idea(l):
+
+
+#### Logos Implementation:
+
+
+#### Live Feedback
+
+
+#### IMPORTANT Differentiators:
+
+
+#### Knowledge Share:
