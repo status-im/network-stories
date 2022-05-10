@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "476c0b822fb9c253",
+        "id": "9b06a6fa4b0536b8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "pages/BBA.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/BBA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "476c0b822fb9c253",
+  "active": "9b06a6fa4b0536b8",
   "lastOpenFiles": [
-    "pages/Topic Template.md",
-    "pages/Logos Program.md",
-    "pages/Project Logos.md",
-    "pages/Consensus.md",
     "pages/BBA.md",
+    "pages/Consensus.md",
+    "pages/Project Logos.md",
+    "pages/Logos Program.md",
+    "pages/Node Discovery.md",
+    "pages/Network Layer and Mempool.md",
+    "pages/Topic Template.md",
     "pages/Project Vac.md",
     "pages/Project Codex.md",
-    "pages/Project Waku.md",
-    "pages/DAG-Based Consensus (Avalanche-like).md",
-    "pages/Untitled.md"
+    "pages/Project Waku.md"
   ]
 }

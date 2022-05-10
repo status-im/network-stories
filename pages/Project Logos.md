@@ -10,9 +10,6 @@ date: 2022-05-07
 **Purpose**
 This document reflects an approach of whitepaper review that combines a rough-draft whitepaper review containing comments/reflections/concerns with a further simplification of concepts to make everything more digestible to more people outside of the internal Status infra team for communication purposes. In addition, this review will provide a gauge of difficulty of understanding involved with various different terms/concepts.
 
->**"We build everything on top of consensus."**
-Dr. Corey Petty
-
 ---
 
 ## Necessary Terminology by Layer

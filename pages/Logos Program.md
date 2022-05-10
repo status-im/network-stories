@@ -5,6 +5,8 @@ date: 2022-05-07
 ---
 
 # Logos Program
+>**"We build everything on top of consensus."**
+Dr. Corey Petty
 ---
 ## Project Directory
 ### [[Project Logos]]
