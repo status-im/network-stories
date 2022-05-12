@@ -1,18 +1,36 @@
-# Phrase: P2P Messaging
+---
 
-### Related: #p2p
+title:
+author: Broke
+dateCreated: @today
+dateUpdated: @today
 
-## Operating Definition: 
-	ELI5: Process of message passing witho%u%t relying on a central server to receive and send messages to individual parties.
+---
 
-## Current "Standard" Implementation: 
+# Topic: P2P Messaging
+#### Related:
+`ELI5: Process of message passing witho%u%t relying on a central server to receive and send messages to individual parties.`
 
-## The Idea(l):
+---
 
-## Logos Implementation:
+## Overview
 
-## Live Feedback
+#### Operating Definition:
+[Definition here]<sup>1</sup>
 
-## IMPORTANT Differentiators:
+#### Current "Standard" Implementation:
 
-## Trash Heap:
+
+#### The Idea(l):
+
+
+#### Logos Implementation:
+
+
+#### Live Feedback
+
+
+#### IMPORTANT Differentiators:
+
+
+#### Knowledge Share:

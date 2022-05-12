@@ -1,19 +1,36 @@
-# Phrase: Sybil Resistance
+---
 
-### Related: 
+title:
+author: Broke
+dateCreated: @today
+dateUpdated: @today
 
-## Operating Definition: 
+---
 
-	ELI5: Some sort of way to prevent too disruptive things from wrecking the vibe.
+# Topic:
+#### Related:
+`ELI5: Some sort of way to prevent too disruptive things from wrecking the vibe.`
 
-## Current "Standard" Implementation: 
+---
 
-## The Idea(l):
+## Overview
 
-## Logos Implementation:
+#### Operating Definition:
+[Definition here]<sup>1</sup>
 
-## Live Feedback
+#### Current "Standard" Implementation:
 
-## IMPORTANT Differentiators:
 
-## Trash Heap:
+#### The Idea(l):
+
+
+#### Logos Implementation:
+
+
+#### Live Feedback
+
+
+#### IMPORTANT Differentiators:
+
+
+#### Knowledge Share:

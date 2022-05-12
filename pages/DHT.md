@@ -2,11 +2,12 @@
 
 title:
 author:
-date:
+dateCreated: @today
+dateUpdated: @today
 
 ---
 
-# Topic:
+# Topic: DHT
 #### Related:
 `ELI5 goes here`
 

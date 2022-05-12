@@ -2,7 +2,8 @@
 
 title:
 author:
-date:
+dateCreated: @today
+dateUpdated: @today
 
 ---
 

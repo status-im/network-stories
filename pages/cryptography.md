@@ -1,12 +1,13 @@
 ---
 
 title:
-author:
-date:
+author: Broke
+dateCreated: @today
+dateUpdated: @today
 
 ---
 
-# Topic:
+# Topic: ?
 #### Related:
 `ELI5 goes here`
 

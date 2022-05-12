@@ -1,7 +1,8 @@
 ---
 title: Logos Program
 author: Broke
-date: 2022-05-07
+dateCreated: @today
+dateUpdated: @today 2022-05-07
 ---
 
 # Logos Program

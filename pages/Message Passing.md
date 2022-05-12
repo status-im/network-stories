@@ -1,18 +1,71 @@
-# Phrase: Message Passing
+---
 
-### Related: #p2p
+title:
+author: Broke
+dateCreated: @today
+dateUpdated: @today
 
-## Operating Definition: 
-	ELI5: Process of creation, routing, and receival of one entity sending a message to another.
+---
 
-## Current "Standard" Implementation: 
+# Topic: Message Passing
+#### Related:
+`ELI5: Process of creation, routing, and receival of one entity sending a message to another.`
 
-## The Idea(l):
+---
 
-## Logos Implementation:
+## Overview
 
-## Live Feedback
+#### Operating Definition:
+[Definition here]<sup>1</sup>
 
-## IMPORTANT Differentiators:
+#### Current "Standard" Implementation:
 
-## Trash Heap:
+
+#### The Idea(l):
+
+
+#### Logos Implementation:
+
+
+#### Live Feedback
+
+
+#### IMPORTANT Differentiators:
+
+
+#### Knowledge Share:---
+
+title:
+author: Broke
+dateCreated: @today
+dateUpdated: @today
+
+---
+
+# Topic:
+#### Related:
+`ELI5 goes here`
+
+---
+
+## Overview
+
+#### Operating Definition:
+[Definition here]<sup>1</sup>
+
+#### Current "Standard" Implementation:
+
+
+#### The Idea(l):
+
+
+#### Logos Implementation:
+
+
+#### Live Feedback
+
+
+#### IMPORTANT Differentiators:
+
+
+#### Knowledge Share:
