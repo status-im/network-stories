@@ -1,19 +1,36 @@
-# Phrase: Directed Acyclic Graph (DAG)
+---
 
-### Related: #consensus #data
+title:
+author: Broke
+dateCreated: @today
+dateUpdated: @today
 
-### Operating Definition: 
+---
+
+# Topic: Directed Acyclic Graph (DAG)
+#### Related:
+`ELI5: A data structure that allows for branching to occur. A blockchain is just a linear DAG. A DAG is a generalization of that dynamic which can allow for other parts can branch off and continue to exist.`
+
+---
+
+## Overview
+
+#### Operating Definition:
 A directed graph with no directed cycles. <sup>1</sup>
 
-	ELI5: A data structure that allows for branching to occur. A blockchain is just a linear DAG. A DAG is a generalization of that dynamic which can allow for other parts can branch off and continue to exist.
-
-## Current Implementation:
+#### Current "Standard" Implementation:
 Simply a basic generalized data structure used in multiple different fields of study.
 
-## The Idea(l):
+#### The Idea(l):
 
-## Logos Implementation: 
 
-## IMPORTANT Differentiators:
+#### Logos Implementation:
 
-## Trash Heap:
+
+#### Live Feedback
+
+
+#### IMPORTANT Differentiators:
+
+
+#### Knowledge Share:

@@ -1,7 +1,8 @@
 ---
 title: Understanding the Logos Blockchain Whitepaper | A High-Level Conceptual Review of the Logos Blockchain
 author: Broke
-date: 2022-05-07
+dateCreated: @today
+dateUpdated: @today 2022-05-07
 ---
 
 # Understanding the Logos Blockchain Whitepaper

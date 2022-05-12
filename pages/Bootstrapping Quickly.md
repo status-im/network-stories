@@ -1,21 +1,37 @@
-# Phrase: 
+---
 
-### Related: 
+title:
+author: Broke
+dateCreated: @today
+dateUpdated: @today
 
-## Operating Definition: 
+---
+
+# Topic: Bootstrapping Quickly
+#### Related:
+`ELI5 goes here`
+
+---
+
+## Overview
+
+#### Operating Definition:
+[Definition here]<sup>1</sup>
+
+#### Current "Standard" Implementation:
+
+
+#### The Idea(l):
+
+
+#### Logos Implementation:
 -using self
 -using others
 
-	ELI5: 
+#### Live Feedback
 
-## Current "Standard" Implementation: 
 
-## The Idea(l):
+#### IMPORTANT Differentiators:
 
-## Logos Implementation:
 
-## Live Feedback
-
-## IMPORTANT Differentiators:
-
-## Trash Heap:
+#### Knowledge Share:

@@ -1,19 +1,36 @@
-# Phrase: Security
+---
 
-### Related: 
+title:
+author:
+dateCreated: @today
+dateUpdated: @today
 
-## Operating Definition: 
+---
 
-	ELI5: Not losing your shit unless you want to.
+# Topic:
+#### Related:
+`ELI5: Not losing your shit unless you want to.`
 
-## Current "Standard" Implementation: 
+---
 
-## The Idea(l):
+## Overview
 
-## Logos Implementation:
+#### Operating Definition:
+[Definition here]<sup>1</sup>
 
-## Live Feedback
+#### Current "Standard" Implementation:
 
-## IMPORTANT Differentiators:
 
-## Trash Heap:
+#### The Idea(l):
+
+
+#### Logos Implementation:
+
+
+#### Live Feedback
+
+
+#### IMPORTANT Differentiators:
+
+
+#### Knowledge Share:

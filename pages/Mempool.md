@@ -1,37 +1,71 @@
-# Phrase: 
+---
 
-### Related: 
+title:
+author: Broke
+dateCreated: @today
+dateUpdated: @today
 
-## Operating Definition: 
+---
 
-	ELI5: 
+# Topic:
+#### Related:
+`ELI5 goes here`
 
-## Current "Standard" Implementation: 
+---
 
-## The Idea(l):
+## Overview
 
-## Logos Implementation:
+#### Operating Definition:
+[Definition here]<sup>1</sup>
 
-## Live Feedback
+#### Current "Standard" Implementation:
 
-## IMPORTANT Differentiators:
 
-## Trash Heap:# Phrase: 
+#### The Idea(l):
 
-### Related: 
 
-## Operating Definition: 
+#### Logos Implementation:
 
-	ELI5: 
 
-## Current "Standard" Implementation: 
+#### Live Feedback
 
-## The Idea(l):
 
-## Logos Implementation:
+#### IMPORTANT Differentiators:
 
-## Live Feedback
 
-## IMPORTANT Differentiators:
+#### Knowledge Share:---
 
-## Trash Heap:
+title:
+author: Broke
+dateCreated: @today
+dateUpdated: @today
+
+---
+
+# Topic:
+#### Related:
+`ELI5 goes here`
+
+---
+
+## Overview
+
+#### Operating Definition:
+[Definition here]<sup>1</sup>
+
+#### Current "Standard" Implementation:
+
+
+#### The Idea(l):
+
+
+#### Logos Implementation:
+
+
+#### Live Feedback
+
+
+#### IMPORTANT Differentiators:
+
+
+#### Knowledge Share:
