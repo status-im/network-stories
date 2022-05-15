@@ -30,6 +30,7 @@ Glacier
 #### Live Feedback
 Discord Server: Status Discord Server
 Text-Channel: #research-consensus
+Discord Server: Logos Discord Server
 
 #### IMPORTANT Differentiators:
 

@@ -8,22 +8,24 @@ dateUpdated: @today 2022-05-07
 # Logos Program
 >**"We build everything on top of consensus."**
 Dr. Corey Petty
+
 ---
+
 ## Project Directory
 ### [[Project Logos]]
 ### [[Project Codex]]
 ### [[Project Waku]]
-### [[Project Vac]]
+
 ---
 ### Purpose
-is to provide a 'living database' through:
-1. Searchable Information ([Graph View])
-2. Topical Coordination ([Topics] as Connected Pages)
+is to provide a "Living Database" through:
+1. Searchable Information ([Graph View] w/ Controllable Physics for View Adjustment)
+2. Topical Coordination ([Topics] as Connected Pages w/ Link Navigation)
 3. Communication Routes ([Tags] for Project Discord w/ Relevant Text-Channel for Live Discussion)
 
 ### Instructions
-1. How do I contribute to this notebook? (See 1. Add/Edit Topics)
-2. How do I consume this notebook? (See 2. Search Topics)
+1. How do I contribute to this notebook? (See 1. Add/Edit Topics Below)
+2. How do I consume this notebook? (See 2. Search Topics Below)
 
 #### 1. Add/Edit Topics
 After you've cloned the repo you can:
@@ -64,7 +66,7 @@ Ingredients (*Resources*) is for links relevant to helping people understand the
 
 
 #### Sample Recipe
-See example copy pasta Recipe for a new [Topic] below:
+See example for creating a `new Recipe` template for a new [Topic] below:
 ```
 - Recipe: Topic
 	- Prep: [||||||||||]
