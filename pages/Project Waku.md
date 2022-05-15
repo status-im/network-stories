@@ -24,11 +24,7 @@ dateUpdated: @today 2022-05-07
 |Time      | In Minutes | X Minutes |
 |Resources | Article/Video Links w/ Visual Content | Conceptual & Pictoral "Ingredients List" of Links|
 
-See below 'Recipe' and modify accordingly to above in Figma.
-
-	![[Pasted image 20220415164934.png]]
----
-## **Operating Definitions:**
+### **Gauge Definitions:**
 
 Prep (*Difficulty*) is defined as the ease of which the concepts can be generally understood. (Future: Make into more fun visual or something more enjoyable than a difficulty bar.)
 
@@ -36,7 +32,8 @@ Cook Time (*Scope*) is in reference to the size of information necessary to lear
 
 Ingredients (*Resources*) is for links relevant to helping people understand the concepts. Number references and use superscript notation to reference mentions in terminology Recipes descriptions.
 
-	Future Work: Adjust difficulty/time ratings, cook time respec. based on feedback from everyone at DXB.
+
+	![[Pasted image 20220415164934.png]]
 
 ---
 

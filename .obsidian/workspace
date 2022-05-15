@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/BBA.md",
+            "file": "pages/Start Here.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Topic Template",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,11 +50,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200.0028419494629
+    "width": 200.0028419494629,
+    "collapsed": true
   },
   "right": {
     "id": "5a82e9ac98b3e694",
@@ -70,13 +72,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/BBA.md",
+                "file": "pages/Start Here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -90,15 +92,15 @@
   },
   "active": "9b06a6fa4b0536b8",
   "lastOpenFiles": [
-    "pages/BBA.md",
-    "pages/Consensus.md",
-    "pages/Project Logos.md",
+    "pages/Start Here.md",
+    "README.md",
+    "pages/Pasted image 20220513173853.png{width=50%}.md",
     "pages/Logos Program.md",
-    "pages/Node Discovery.md",
-    "pages/Network Layer and Mempool.md",
+    "pages/Project Waku.md",
+    "pages/Data Model and Concurrency.md",
+    "pages/Project Logos.md",
+    "pages/Consensus.md",
     "pages/Topic Template.md",
-    "pages/Project Vac.md",
-    "pages/Project Codex.md",
-    "pages/Project Waku.md"
+    "pages/BBA.md"
   ]
 }
