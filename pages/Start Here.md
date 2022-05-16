@@ -26,9 +26,9 @@
 	   ![[Pasted image 20220513175923.png|300]] 
 	   3. Click on the URL tab and paste the network-stories repository: https://github.com/status-im/network-stories
 	   4. Copy your 'Local Path' (circled below) to your clipboard and press 'Clone'
-			![[Pasted image 20220513180840.png|300]]
-			5. Go back to Obsidian and click the 'Open' button to the right of "Open folder as vault - Choose an existing folder of Markdown Files." and paste the 'Local Path' from above and click 'Open' again to open the directory as an Obsidian Vault
+			![[Pasted image 20220513180840.png|300]]  
+	   5. Go back to Obsidian and click the 'Open' button to the right of "Open folder as vault - Choose an existing folder of Markdown Files." and paste the 'Local Path' from above and click 'Open' again to open the directory as an Obsidian Vault
 				![[Pasted image 20220513181031.png|300]]
-				6. Congratulations you did it! You can now access the network-stories 'Graph View' by clicking the icon below
+	   6. Congratulations you did it! You can now access the network-stories 'Graph View' by clicking the icon below
 		   ![[Pasted image 20220513182600.png|300]]
 
