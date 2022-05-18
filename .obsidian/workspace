@@ -6,6 +6,23 @@
       {
         "id": "9b06a6fa4b0536b8",
         "type": "leaf",
+        "dimension": 57.80590717299578,
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/Logos Program.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "6fcb5ae32ca29ccf",
+        "type": "leaf",
+        "dimension": 42.19409282700422,
         "state": {
           "type": "markdown",
           "state": {
@@ -55,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.0028419494629
+    "width": 200.0028419494629,
+    "collapsed": true
   },
   "right": {
     "id": "5a82e9ac98b3e694",
@@ -89,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9b06a6fa4b0536b8",
+  "active": "6fcb5ae32ca29ccf",
   "lastOpenFiles": [
     "README.md",
+    "pages/Topics.md",
+    "pages/randomly.md",
+    "pages/Tags.md",
+    "pages/Logos Program.md",
     "pages/Start Here.md",
     "pages/libp2p.md",
     "pages/Project Waku.md",
     "pages/Pasted image 20220513173853.png{width=50%}.md",
-    "pages/Logos Program.md",
-    "pages/Data Model and Concurrency.md",
-    "pages/Project Logos.md",
-    "pages/Consensus.md",
-    "pages/Topic Template.md"
+    "pages/Data Model and Concurrency.md"
   ]
 }
