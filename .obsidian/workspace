@@ -4,25 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "9b06a6fa4b0536b8",
-        "type": "leaf",
-        "dimension": 57.80590717299578,
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pages/Logos Program.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          },
-          "pinned": true
-        }
-      },
-      {
         "id": "6fcb5ae32ca29ccf",
         "type": "leaf",
-        "dimension": 42.19409282700422,
+        "dimension": 99.99999999999999,
         "state": {
           "type": "markdown",
           "state": {
