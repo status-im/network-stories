@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Start Here.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -55,8 +55,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.0028419494629,
-    "collapsed": true
+    "width": 200.0028419494629
   },
   "right": {
     "id": "5a82e9ac98b3e694",
@@ -72,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Start Here.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,15 +91,15 @@
   },
   "active": "9b06a6fa4b0536b8",
   "lastOpenFiles": [
-    "pages/Start Here.md",
     "README.md",
+    "pages/Start Here.md",
+    "pages/libp2p.md",
+    "pages/Project Waku.md",
     "pages/Pasted image 20220513173853.png{width=50%}.md",
     "pages/Logos Program.md",
-    "pages/Project Waku.md",
     "pages/Data Model and Concurrency.md",
     "pages/Project Logos.md",
     "pages/Consensus.md",
-    "pages/Topic Template.md",
-    "pages/BBA.md"
+    "pages/Topic Template.md"
   ]
 }
