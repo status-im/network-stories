@@ -32,3 +32,4 @@
 	   6. Congratulations you did it! You can now access the network-stories 'Graph View' by clicking the icon below
 		   ![[Pasted image 20220513182600.png|300]]
 
+Now hop to [[Logos Program]] to begin!
