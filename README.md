@@ -5,8 +5,8 @@ End User stories of the "Status Network"
 	Follow the step-by-step instructions below to begin your Graph View journey.
 	
 1. Download and Install Obsidian for your OS by going to: https://obsidian.md/download
-![Obsidian Download](https://github.com/status-im/network-stories/tree/master/pages/assets/Pasted image 20220513173853.png?raw=true)
-   ![[Pasted image 20220513173853.png|300]]
+![Obsidian Download](https://github.com/status-im/network-stories/blob/master/pages/assets/Pasted%20image%2020220513173510.png)
+   `![[Pasted image 20220513173853.png|300]]`
 2. Navigate to the GitHub repository located here: https://github.com/status-im/network-stories
 3. Left-click the green 'Code' button and click 'Open with GitHub Desktop'
 ![Obsidian Download](https://github.com/status-im/network-stories/tree/master/pages/assets/Pasted image 20220513173743.png?raw=true)
