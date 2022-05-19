@@ -1,7 +1,7 @@
 # network-stories
 End User stories of the "Status Network"
 
-## Welcome to the Knowledge Safe Spawn™
+## Welcome to Your Knowledge Safe Spawn™
 	Follow the step-by-step instructions below to begin your Graph View journey.
 	
 1. `Download` and `Install` `Obsidian` for your OS by going to: https://obsidian.md/download
