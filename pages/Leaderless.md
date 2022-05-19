@@ -27,7 +27,7 @@ Processes exchange their proposals, retain the maximum value and decide when the
 #### Logos Implementation:
 
 
-#### Live Feedback
+#### Live Feedback:
 
 
 #### IMPORTANT Differentiators:

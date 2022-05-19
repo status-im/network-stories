@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "pages/Leaderless.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -45,7 +45,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -56,8 +56,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.0028419494629,
-    "collapsed": true
+    "width": 200.0028419494629
   },
   "right": {
     "id": "5a82e9ac98b3e694",
@@ -73,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "pages/Leaderless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,15 +92,15 @@
   },
   "active": "6fcb5ae32ca29ccf",
   "lastOpenFiles": [
-    "README.md",
-    "pages/Topics.md",
-    "pages/randomly.md",
-    "pages/Tags.md",
+    "pages/Leaderless.md",
+    "pages/Consensus.md",
+    "pages/BBA.md",
+    "pages/Ikingut (Reputation Algorithm).md",
+    "pages/CIC.md",
+    "pages/DAGs.md",
+    "pages/Project Logos.md",
     "pages/Logos Program.md",
-    "pages/Start Here.md",
-    "pages/libp2p.md",
-    "pages/Project Waku.md",
-    "pages/Pasted image 20220513173853.png{width=50%}.md",
-    "pages/Data Model and Concurrency.md"
+    "pages/P2P Messaging.md",
+    "pages/Network Layer and Mempool.md"
   ]
 }

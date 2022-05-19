@@ -28,7 +28,7 @@ dateUpdated: @today
 -using self
 -using others
 
-#### Live Feedback
+#### Live Feedback:
 
 
 #### IMPORTANT Differentiators:

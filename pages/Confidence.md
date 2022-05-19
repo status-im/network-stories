@@ -27,7 +27,7 @@ dateUpdated: @today
 #### Logos Implementation:
 Ikingut (Reputation Algorithm)
 
-#### Live Feedback
+#### Live Feedback:
 
 
 #### IMPORTANT Differentiators:

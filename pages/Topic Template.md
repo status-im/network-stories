@@ -27,7 +27,7 @@ ELI5: Easy explainer for beginner.
 #### Logos Implementation:
 [The research target/goal/Proof of Concept implementation currently under testing/experimentation.]
   
-#### Live Feedback
+#### Live Feedback:
 [Add a LIVE location where the research and/or development teams can be pinged in a specific text-channel dedicated to this that is within their specific Discord server so that conversation can be bridged between projects and on a program level in order to best plug into resolving better than current understanding on this specific topic. I.e., Vac/Waku/Codex/Logos Discord server and a specific text-channel for this concept like #(insert one of six layers under research).]
 
 #### IMPORTANT Differentiators:
@@ -69,7 +69,7 @@ dateUpdated: @today
 #### Logos Implementation:
 
 
-#### Live Feedback
+#### Live Feedback:
 
 
 #### IMPORTANT Differentiators:

@@ -27,7 +27,7 @@ dateUpdated: @today
 #### Logos Implementation:
 
 
-#### Live Feedback
+#### Live Feedback:
 
 
 #### IMPORTANT Differentiators:

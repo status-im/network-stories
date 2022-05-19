@@ -21,9 +21,6 @@ A group of nodes that share key characteristics<sup>1</sup> of:
 	2. Varying degrees of inter-communication and interdependence
 	3. "CICs... could exist completely independently as a separate infrastructure."
 
-	ELI5: A group of people that is trying to come together on data and can break away from the default subnet (Avalanche forces participation in default subnet).
-	TODO: Expand or reform552.
-
 #### Current "Standard" Implementation:
 On Ethereum, the process of agreement is done by everyone in the entire network. If someone has a decision that needs to come to agreement on, the entire network has to process that data.
 
@@ -34,7 +31,7 @@ The ability for groups with various use-cases to be able to find where they can 
 We are trying to separate the ability for individual groups to come to agreement on their own data together and not be affected by groups outside of themselves unless they've explicitly attached themselves to them. 
 We will give the ability for a smaller subset of a large number of nodes to come together and specify on validating a smaller group of data they want to come together on and most consensus mechanisms do not allow for that.
 
-#### Live Feedback
+#### Live Feedback:
 
 
 #### IMPORTANT Differentiators:
