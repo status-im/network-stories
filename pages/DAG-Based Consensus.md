@@ -27,7 +27,7 @@ With PBFT mechanisms, once the network decides on something, it is final. There 
 #### Logos Implementation:
 
 
-#### Live Feedback
+#### Live Feedback:
 
 
 #### IMPORTANT Differentiators:

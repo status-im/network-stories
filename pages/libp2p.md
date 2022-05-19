@@ -32,7 +32,7 @@ Defines gossipsub which is what we
 #### Logos Implementation:
 
 
-#### Live Feedback
+#### Live Feedback:
 
 
 #### IMPORTANT Differentiators:

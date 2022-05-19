@@ -33,7 +33,7 @@ dateUpdated: @today
 	3. Transition
 	4. Opinion & Decision (Flip or Settle)
 
-#### Live Feedback
+#### Live Feedback:
 
 
 #### IMPORTANT Differentiators:

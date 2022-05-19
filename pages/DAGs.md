@@ -27,7 +27,7 @@ Simply a basic generalized data structure used in multiple different fields of s
 #### Logos Implementation:
 
 
-#### Live Feedback
+#### Live Feedback:
 
 
 #### IMPORTANT Differentiators:
