@@ -1,7 +1,7 @@
 ---
 
 title:
-author: Broke
+author: 
 dateCreated: @today
 dateUpdated: @today
 
@@ -36,7 +36,7 @@ dateUpdated: @today
 #### Knowledge Share:---
 
 title:
-author: Broke
+author: 
 dateCreated: @today
 dateUpdated: @today
 

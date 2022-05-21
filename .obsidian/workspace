@@ -4,29 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d8aefb8bf9cd2cce",
+        "id": "6cd65f698da9ff80",
         "type": "leaf",
-        "dimension": 38.43457943925234,
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Set of Protocols.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "c949ce3f6f228b9d",
-        "type": "leaf",
-        "dimension": 61.56542056074766,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pages/Tags.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -58,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#How-To",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Tags.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c949ce3f6f228b9d",
+  "active": "6cd65f698da9ff80",
   "lastOpenFiles": [
-    "pages/Tags.md",
+    "README.md",
+    "pages/Start Here.md",
     "pages/Logos Program.md",
-    "pages/Recipes.md",
-    "pages/Topics.md",
+    "pages/README.md",
+    "pages/Edit an Existing Topic.md",
+    "pages/Instructions.md",
+    "pages/Project Codex.md",
+    "pages/Pasted.md",
     "pages/Graph View.md",
-    "pages/Pasted_image_20220520215418.png.md",
-    "pages/Set of Protocols.md",
-    "pages/Project Logos.md",
-    "pages/Consensus.md",
-    "pages/BBA.md"
+    "pages/placeholder.md"
   ]
 }
