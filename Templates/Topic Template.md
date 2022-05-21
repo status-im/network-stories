@@ -1,8 +1,7 @@
 ---
-
-title:
+title: 
 author:
-dateCreated: @today
+dateCreated: {{date:YYYYMMDD}}
 dateUpdated: @today
 
 ---

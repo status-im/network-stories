@@ -69,7 +69,7 @@ You can now hop to [[Logos Program]] to understand all the moving parts are bein
 
 OR
 
-You can jump right in and begin learning any new [Topic] and/or create new [[Topics]] for others!
+You can jump right in and begin learning any new [Topic] and/or create new [[Recipes]] for others!
 
 
 WIP

@@ -29,7 +29,5 @@
 			![[Pasted image 20220513180840.png|300]]
 			5. Go back to Obsidian and click the 'Open' button to the right of "Open folder as vault - Choose an existing folder of Markdown Files." and navigate to the 'Local Path' from above and click 'Open' again to open the directory as an Obsidian Vault
 				![[Pasted image 20220513181031.png|300]]
-				6. Congratulations you did it! You can now access the network-stories 'Graph View' by clicking the icon below
+				6. Congratulations you did it! You can either hop to [[Logos Program]] to begin learning in a sequential fashion or you can YOLO skip around to different `Topics` by exploring the network-stories `'Graph View'` by clicking the icon below or by using the keyboard shortcut Ctrl-G (Windows) or Cmd-G (Mac).
 		   ![[Pasted image 20220513182600.png|300]]
-
-Now hop to [[Logos Program]] to begin!
