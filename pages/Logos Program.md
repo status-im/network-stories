@@ -1,6 +1,6 @@
 ---
 title: Logos Program
-author: Broke
+author: 
 dateCreated: @today
 dateUpdated: @today 2022-05-07
 ---
@@ -8,6 +8,15 @@ dateUpdated: @today 2022-05-07
 # Logos Program
 >**"We build everything on top of consensus."**
 Dr. Corey Petty
+
+---
+
+## Purpose
+is to provide a "Living Database" with a cooking motif through:
+
+1. Searchable Information ([[Graph View]] w/ Controllable Physics for View Adjustment)
+2. Topic Coordination ([[Recipes]] as Connected Topics/Pages w/ Linked Navigation)
+3. Communication Routes ([[Tags]] for Project Discord w/ Relevant Text-Channel for Live Discussion)
 
 ---
 
@@ -19,9 +28,3 @@ is a list of Projects involved in the Logos Program
 ### [[Project Waku]]
 
 ---
-### Purpose
-is to provide a "Living Database" with a cooking motif through:
-
-1. Searchable Information ([[Graph View]] w/ Controllable Physics for View Adjustment)
-2. Topic Coordination ([[Recipes]] as Connected Topics/Pages w/ Linked Navigation)
-3. Communication Routes ([[Tags]] for Project Discord w/ Relevant Text-Channel for Live Discussion)

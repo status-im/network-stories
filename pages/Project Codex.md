@@ -1,6 +1,6 @@
 ---
 title: Understanding Codex Efforts
-author: Broke
+author: 
 dateCreated: @today
 dateUpdated: @today 2022-05-07
 ---
@@ -52,8 +52,7 @@ Ingredients (*Resources*) is for links relevant to helping people understand the
 
 FT -> 
 BFT -> Incentives + Remote Auditing
-BFT
-FT
+
 [[storage]]
 [[data]]
 [[durability]] 
@@ -70,3 +69,5 @@ FT
 [[messaging]]
 [[zero-knowledge]]
 [[privacy]]
+[[Purchasing REST API]]
+[[Sales REST API]]

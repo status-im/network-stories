@@ -1,7 +1,7 @@
 ---
 
 title:
-author: Broke
+author: 
 dateCreated: @today
 dateUpdated: @today
 

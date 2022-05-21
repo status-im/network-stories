@@ -1,6 +1,6 @@
 ---
 title: Understanding Waku Efforts
-author: Broke
+author: 
 dateCreated: @today
 dateUpdated: @today 2022-05-07
 ---
