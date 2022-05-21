@@ -59,12 +59,11 @@ End User stories of the "Status Network"
 ```
 
 ## Let's Get Cookin'
-and have you begin your own Master Chef adventures by helping you make your very own first Recipe below:
+Begin your unique Master Chef adventures by making your very own first Recipe below:
 
 
 
 ### Recipe: `network-stories`  à la Obsidian
-- Recipe: `network-stories`  à la Obsidian
 	- Prep: [|||       ]
 	- Cook Time: 5-10 min
 	- Ingredients:
