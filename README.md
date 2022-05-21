@@ -1,8 +1,6 @@
 # network-stories
 End User stories of the "Status Network"
 
-	Follow the step-by-step instructions below to begin your own Cooking journey.
-
 ```
                                                                                           
                                                                                           
@@ -33,14 +31,14 @@ End User stories of the "Status Network"
                                   :%-             :-----:                %@=              
                                    .%-            *#+==##.              %*                
                                      #=             ...               :%=                 
-                                      =#=.                          -*+.         DELIVERING YOU OUR HOMEMADE RECIPES 
-         -##*++++++++++++++++++=-       :**-                     :**=                    (SERVED FRESH DAILY)
+                                      =#=.                          -*+.     
+         -##*++++++++++++++++++=-       :**-                     :**=              
    -+=++#*  :..+:. :-   =.      =#=.       -**=.            .-+**-                                  
-    -+++-  *= %: :#@* :##......   :--=*#    .+#%#***++=+##*#%@=.                                    
-        =#L%*I#*@@%L.:***++***##=++====:   *#:     -%###-     :+#=                        THE 'LOGOS COOKBOOK'
+    -+++-  *= %: :#@* :##......   :--=*#    .+#%#***++=+##*#%@=.       DELIVERING YOU OUR HOMEMADE RECIPES                        
+        =#L%*I#*@@%L.:***++***##=++====:   *#:     -%###-     :+#=           (SERVED FRESH DAILY) 
        #%#*++++===-------========+++*+   =%=:     #+--.        --=%+                      
         .=##**######%%*====+++******=  .#+.*     :@  =    :=    #- =%-                    
-                  ...:=+***-   *@*:   +#. #-     -#              %   *#.                  
+                  ...:=+***-   *@*:   +#. #-     -#              %   *#.      THE 'LOGOS COOKBOOK'           
                            *%*#+:#@%*%-  :@      =# .:     :     *+   -%:                 
                            =B@:+%=  .    *-      =* .-     -     :@-   :@:                
                             =@@=        .%       +*               @@    =*                
@@ -68,7 +66,13 @@ End User stories of the "Status Network"
                                                                                           
                                                                                           
 
+Let's Get Cookin'
+
+Begin your own Master Chef adventures by cooking your first Recipe below:
+
 ```
+
+Recipe: `network-stories`  à la Obsidian
 
 1. `Download` and `Install` `Obsidian` for your OS by going to: https://obsidian.md/download
    
@@ -102,8 +106,8 @@ End User stories of the "Status Network"
 	   
 	   ![Open Vault](https://github.com/status-im/network-stories/blob/master/pages/assets/Pasted%20image%2020220513181031.png)
 				
-	6. Congratulations you did it! You can either hop to [[Logos Program]] to begin learning!
-	      OR you can skip around random `Topics` and explore the network-stories `'Graph View'` by clicking the icon below or by using the keyboard shortcut Ctrl-G (Windows) or Cmd-G (Mac).
+	6. Congratulations you did it! You can either hop to [[Start Here]] to continue by learning our Back of the House!
+	      OR you can skip around random `Recipes` and explore the network-stories `'Graph View'` by clicking the icon below or by using the keyboard shortcut Ctrl-G (Windows) or Cmd-G (Mac).
 		   
 	   ![Access Graph View](https://github.com/status-im/network-stories/blob/master/pages/assets/Pasted%20image%2020220513182600.png)
 		   
@@ -124,12 +128,8 @@ End User stories of the "Status Network"
 				
 		![Paste and Open Vault](https://github.com/status-im/network-stories/blob/master/pages/assets/Pasted%20image%2020220513181031.png)
 				
-	6. Congratulations you did it! You can either hop to [[Start Here]] to begin learning!
-	      OR you can skip around random `Topics` and explore the network-stories `'Graph View'` by clicking the icon below or by using the keyboard shortcut Ctrl-G (Windows) or Cmd-G (Mac).
+	6. Congratulations you did it! You can either hop to [[Start Here]] to continue by learning our Back of the House!
+	      OR you can skip around random `Recipes` and explore the network-stories `'Graph View'` by clicking the icon below or by using the keyboard shortcut Ctrl-G (Windows) or Cmd-G (Mac).
 		   
 	   ![Access Graph View](https://github.com/status-im/network-stories/blob/master/pages/assets/Pasted%20image%2020220513182600.png)
 		   
-
-WIP
-- Explain what a Topic is - link to motif page re: Topics as Recipes
-- Add Instructions for Creating new Topics - Insert learning video here?
