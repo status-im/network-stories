@@ -65,14 +65,21 @@ End User stories of the "Status Network"
                                                                                           
                                                                                           
                                                                                           
-
-Let's Get Cookin'
-
-Begin your own Master Chef adventures by cooking your first Recipe below:
-
 ```
 
-Recipe: `network-stories`  à la Obsidian
+## Let's Get Cookin'
+and have you begin your own Master Chef adventures by helping you cook your very own first Recipe below:
+
+# Recipe: `network-stories`  à la Obsidian
+- Recipe: `network-stories`  à la Obsidian
+	- Prep: [|||       ]
+	- Cook Time: 5-10 min
+	- Ingredients:
+		1. https://obsidian.md/download
+		2. https://github.com/status-im/network-stories
+		3. Insert Video Helper
+
+**Step-by-Step Cooking Instructions**
 
 1. `Download` and `Install` `Obsidian` for your OS by going to: https://obsidian.md/download
    
