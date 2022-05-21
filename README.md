@@ -33,11 +33,11 @@ End User stories of the "Status Network"
                                   :%-             :-----:                %@=              
                                    .%-            *#+==##.              %*                
                                      #=             ...               :%=                 
-                                      =#=.                          -*+.                     DELIVERING YOU OUR HOMEMADE RECIPES 
-         -##*++++++++++++++++++=-       :**-                     :**=                                (SERVED FRESH DAILY)
+                                      =#=.                          -*+.         DELIVERING YOU OUR HOMEMADE RECIPES 
+         -##*++++++++++++++++++=-       :**-                     :**=                    (SERVED FRESH DAILY)
    -+=++#*  :..+:. :-   =.      =#=.       -**=.            .-+**-                                  
     -+++-  *= %: :#@* :##......   :--=*#    .+#%#***++=+##*#%@=.                                    
-        =#L%*I#*@@%L.:***++***##=++====:   *#:     -%###-     :+#=                                  THE 'LOGOS COOKBOOK'
+        =#L%*I#*@@%L.:***++***##=++====:   *#:     -%###-     :+#=                        THE 'LOGOS COOKBOOK'
        #%#*++++===-------========+++*+   =%=:     #+--.        --=%+                      
         .=##**######%%*====+++******=  .#+.*     :@  =    :=    #- =%-                    
                   ...:=+***-   *@*:   +#. #-     -#              %   *#.                  
@@ -129,8 +129,6 @@ End User stories of the "Status Network"
 		   
 	   ![Access Graph View](https://github.com/status-im/network-stories/blob/master/pages/assets/Pasted%20image%2020220513182600.png)
 		   
-
-
 
 WIP
 - Explain what a Topic is - link to motif page re: Topics as Recipes
