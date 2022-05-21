@@ -4,13 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "6fcb5ae32ca29ccf",
+        "id": "d8aefb8bf9cd2cce",
         "type": "leaf",
-        "dimension": 99.99999999999999,
+        "dimension": 38.43457943925234,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Leaderless.md",
+            "file": "pages/Set of Protocols.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "c949ce3f6f228b9d",
+        "type": "leaf",
+        "dimension": 61.56542056074766,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/Tags.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#How-To",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -56,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.0028419494629
+    "width": 284.00000190734863,
+    "collapsed": true
   },
   "right": {
     "id": "5a82e9ac98b3e694",
@@ -72,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Leaderless.md",
+                "file": "pages/Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,6 +97,17 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49b8e3cc80c1c453",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -90,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6fcb5ae32ca29ccf",
+  "active": "c949ce3f6f228b9d",
   "lastOpenFiles": [
-    "pages/Leaderless.md",
-    "pages/Consensus.md",
-    "pages/BBA.md",
-    "pages/Ikingut (Reputation Algorithm).md",
-    "pages/CIC.md",
-    "pages/DAGs.md",
-    "pages/Project Logos.md",
+    "pages/Tags.md",
     "pages/Logos Program.md",
-    "pages/P2P Messaging.md",
-    "pages/Network Layer and Mempool.md"
+    "pages/Recipes.md",
+    "pages/Topics.md",
+    "pages/Graph View.md",
+    "pages/Pasted_image_20220520215418.png.md",
+    "pages/Set of Protocols.md",
+    "pages/Project Logos.md",
+    "pages/Consensus.md",
+    "pages/BBA.md"
   ]
 }

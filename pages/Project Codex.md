@@ -28,7 +28,7 @@ Dmitriy Ryajov
 See below 'Recipe' and modify accordingly to above in Figma.
 
 	![[Pasted image 20220415164934.png]]
----
+---T
 ## **Operating Definitions:**
 
 Prep (*Difficulty*) is defined as the ease of which the concepts can be generally understood. (Future: Make into more fun visual or something more enjoyable than a difficulty bar.)
@@ -43,6 +43,17 @@ Ingredients (*Resources*) is for links relevant to helping people understand the
 
 ## Necessary Terminology
 
+### Decentralized Storage
+### Durability
+### Redundancy
+### Dispersal (FT or )
+### Incentives
+### Remote Auditing
+
+FT -> 
+BFT -> Incentives + Remote Auditing
+BFT
+FT
 [[storage]]
 [[data]]
 [[durability]] 

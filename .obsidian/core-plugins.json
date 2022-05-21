@@ -4,12 +4,17 @@
   "switcher",
   "graph",
   "backlink",
+  "tag-pane",
   "page-preview",
+  "templates",
   "note-composer",
   "command-palette",
   "editor-status",
   "markdown-importer",
+  "random-note",
   "word-count",
+  "audio-recorder",
   "open-with-default-app",
-  "file-recovery"
+  "file-recovery",
+  "sync"
 ]
