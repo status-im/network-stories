@@ -12,11 +12,16 @@ Dr. Corey Petty
 ---
 
 ## Purpose
-is to provide a "Living Database" with a cooking motif through:
+is to provide a "[[Living Database]]" with a [[hierarchy of information]] displayed using fun [[cooking motifs]] to deliver:
 
 1. Searchable Information ([[Graph View]] w/ Controllable Physics for View Adjustment)
 2. Topic Coordination ([[Recipes]] as Connected Topics/Pages w/ Linked Navigation)
 3. Communication Routes ([[Tags]] for Project Discord w/ Relevant Text-Channel for Live Discussion)
+
+---
+
+## [[Instructions]]
+to [[Add New Topic]] or [[Edit an Existing Topic]] in the notebook
 
 ---
 

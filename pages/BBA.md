@@ -8,7 +8,7 @@ dateUpdated: @today
 ---
 
 # Topic: Binary Byzantine Agreement (BBA)
-#### Related: #consensus 
+#### Related: 
 `ELI5: Process of a distributed network coming to an agreement between two options OR the proposal, decision-making process, and eventual conclusion/convergence of a two-option Byzantine-contexted scenario. `
 
 ---
@@ -28,8 +28,6 @@ N/A
 Glacier
 
 #### Live Feedback:
-Discord Server: Logos Discord Server
-Text-Channel: #consensus
 
 #### IMPORTANT Differentiators:
 N/A

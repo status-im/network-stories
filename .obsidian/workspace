@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6cd65f698da9ff80",
+        "id": "29db6f75a66b544c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "pages/Start Here.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -72,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "pages/Start Here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6cd65f698da9ff80",
+  "active": "29db6f75a66b544c",
   "lastOpenFiles": [
-    "README.md",
     "pages/Start Here.md",
-    "pages/Logos Program.md",
+    "README.md",
     "pages/README.md",
-    "pages/Edit an Existing Topic.md",
+    "pages/Logos Program.md",
     "pages/Instructions.md",
-    "pages/Project Codex.md",
-    "pages/Pasted.md",
-    "pages/Graph View.md",
-    "pages/placeholder.md"
+    "pages/Living Database.md",
+    "pages/BBA.md",
+    "pages/Ikingut (Reputation Algorithm).md",
+    "pages/Tags.md",
+    "pages/Recipes.md"
   ]
 }
