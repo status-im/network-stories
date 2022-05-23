@@ -7,5 +7,5 @@
   "trashOption": "local",
   "newFileLocation": "folder",
   "newFileFolderPath": "pages",
-  "attachmentFolderPath": "./assets"
+  "attachmentFolderPath": "pages/assets"
 }
