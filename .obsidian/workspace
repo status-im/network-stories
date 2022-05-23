@@ -7,12 +7,9 @@
         "id": "29db6f75a66b544c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "pages/Start Here.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "assets/Pasted image 20220523051608.png"
           }
         }
       }
@@ -54,8 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.00000190734863,
-    "collapsed": true
+    "width": 284.00000190734863
   },
   "right": {
     "id": "5a82e9ac98b3e694",
@@ -71,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Start Here.md",
+                "file": "assets/Pasted image 20220523051608.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +98,15 @@
   },
   "active": "29db6f75a66b544c",
   "lastOpenFiles": [
-    "pages/Start Here.md",
+    "assets/Pasted image 20220523051608.png",
     "README.md",
+    "pages/Start Here.md",
     "pages/README.md",
     "pages/Logos Program.md",
     "pages/Instructions.md",
     "pages/Living Database.md",
     "pages/BBA.md",
     "pages/Ikingut (Reputation Algorithm).md",
-    "pages/Tags.md",
-    "pages/Recipes.md"
+    "pages/Tags.md"
   ]
 }
