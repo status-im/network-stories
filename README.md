@@ -25,7 +25,7 @@ Begin your unique Master Chef adventures by making your very own first Recipe be
 
 2. `Navigate` to the `GitHub` repository located here: https://github.com/status-im/network-stories
    
-3. Left-Click the green `'Code'` button and `Left-Click` `'Open with GitHub Desktop'`
+3. Left-Click the green `'Code'` button and Left-Click `'Open with GitHub Desktop'`
    
 ![Open with GitHub Desktop](https://github.com/status-im/network-stories/blob/master/pages/assets/Pasted%20image%2020220513173743.png)
 
