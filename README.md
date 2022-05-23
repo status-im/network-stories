@@ -1,8 +1,7 @@
 # network-stories
 End User stories of the "Status Network"
 
-![chefchibi](https://github.com/status-im/network-stories/blob/master/pages/assets/Pasted%image%20220523051608.png)
-
+![chefchibi](https://github.com/status-im/network-stories/blob/master/pages/assets/Pasted%20image%2020220523051608.png)
 
 ## Getting Started
 Begin your unique Master Chef adventures by making your very own first Recipe below:
