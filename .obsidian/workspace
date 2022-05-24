@@ -17,6 +17,19 @@
           },
           "pinned": true
         }
+      },
+      {
+        "id": "0d60344ada5bb757",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/Project Logos.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -73,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Start Here.md",
+                "file": "pages/Project Logos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8143718c5f145084",
+  "active": "0d60344ada5bb757",
   "lastOpenFiles": [
-    "pages/Start Here.md",
     "pages/Project Logos.md",
+    "pages/Bootstrapping or Factory.md",
+    "pages/Tokenomics.md",
+    "pages/Network Layer.md",
+    "pages/Consensus.md",
+    "pages/BBA.md",
+    "pages/Tags.md",
+    "pages/Logos Program.md",
     "pages/Project Codex.md",
-    "pages/Remote Auditing.md",
-    "pages/Project Waku.md",
-    "pages/Set of Implementations.md",
-    "pages/Network of Nodes.md",
-    "pages/Set of Protocols.md",
-    "pages/Decentralized Storage.md",
-    "pages/Redundancy.md"
+    "pages/erasure-coding.md"
   ]
 }
