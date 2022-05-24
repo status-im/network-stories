@@ -1,18 +1,23 @@
 ---
-title: Understanding Waku Efforts
+title: Understanding Project Waku
 author: 
-dateCreated: @today
-dateUpdated: @today 2022-05-07
+dateCreated: 2022-05-07
+dateUpdated: 2022-05-24
 ---
 
-# Understanding Waku Efforts
+# Understanding Project Waku
 ---
 
-**Purpose**
-[Insert Purpose]
+## **Purpose**
+```
+The first protocol in Logos’ stack is Waku, which has its origins in Ethereum’s Whisper protocol, but is optimized for scalability and better usability.
 
->[insert quote]
+Waku removes centralized third parties from messaging - enabling private, secure, censorship-free communication.  Waku is designed for generalized messaging, enabling both human-to-human or machine-to-machine communication.
 
+```
+
+>**"_[Quote goes here]"**
+Franck Royer
 ---
 
 ## Necessary Terminology by Perspective

@@ -5,11 +5,16 @@ dateCreated: 2022-05-07
 dateUpdated: 2022-05-24
 ---
 
-# Understanding the Logos Blockchain Whitepaper
+# Understanding Project Logos
 ---
 
-**Purpose**
+## **Purpose**
+```
 This document reflects an approach of whitepaper review that combines a rough-draft whitepaper review containing comments/reflections/concerns with a further simplification of concepts to make everything more digestible to more people outside of the internal Status infra team for communication purposes. In addition, this review will provide a gauge of difficulty of understanding involved with various different terms/concepts.
+```
+
+>**"_[Quote goes here]"**
+Alvaro 
 
 ---
 

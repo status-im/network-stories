@@ -1,15 +1,17 @@
 ---
-title: Understanding Codex Efforts
+title: Understanding Project Codex
 author: 
 dateCreated: 2022-05-07
-dateUpdated: 2022-05-23
+dateUpdated: 2022-05-24
 ---
 
-# Understanding Codex Efforts
+# Understanding Project Codex
 ---
 
-**Purpose**
-[Insert Purpose]
+## **Purpose**
+```
+Codex is a decentralized file storage network.
+```
 
 >**"_I like working on fundamental problems."**
 Dmitriy Ryajov
@@ -27,9 +29,14 @@ Dmitriy Ryajov
 #### 5. [[Incentives]]
 #### 6. [[Remote Auditing]]
 
-Comments (Leo's comments re: organization of High-Level Categories)
+---
+
+#### Comments on Reorganization
+(Leo's comments re: organization of High-Level Categories)
 FT -> ???
 BFT -> Incentives + Remote Auditing
+
+---
 
 ### Unsorted Pages:
 [[storage]]

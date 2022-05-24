@@ -17,6 +17,8 @@ For example, there are some [fundamental issues with encryption](https://github
 `libp2p` was developed for IPFS but now many projects use it, Ethereum 2 included. It is therefore quite mature, with many implementations and a large part of the crypto/p2p community behind it. While it’s not perfect, it’s very modular and easy to extend with new transports, user-defined protocols, etc.
 ```
 
+Read this on how to make new [[Recipes]] or how to Cook them.
+
 - Recipe: [[nim-waku]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
