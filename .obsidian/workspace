@@ -105,14 +105,14 @@
   "active": "8143718c5f145084",
   "lastOpenFiles": [
     "pages/Start Here.md",
-    "pages/Data Model and Concurrency.md",
     "pages/Project Logos.md",
-    "pages/Set of Protocols.md",
+    "pages/Project Codex.md",
+    "pages/Remote Auditing.md",
     "pages/Project Waku.md",
+    "pages/Set of Implementations.md",
     "pages/Network of Nodes.md",
-    "pages/Recipes.md",
-    "pages/Node Reputation.md",
-    "Bootstrapping /Bootstrapping or Factory.md",
-    "pages/Logos Program.md"
+    "pages/Set of Protocols.md",
+    "pages/Decentralized Storage.md",
+    "pages/Redundancy.md"
   ]
 }

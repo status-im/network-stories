@@ -20,14 +20,14 @@ Dmitriy Ryajov
 
 ## Necessary Terminology
 
-### The Six (6) Technology Layers of Codex as a [insert here | Decentralized Storage Solution?]
+### The Six (6) High-Level Categories of Codex as a Decentralized Durability Engine
 
-#### 1. [[Decentralized Storage]]
-#### 2. [[Durability]]
-#### 3. [[Redundancy]]
-#### 4. [[Dispersal]]
-#### 5. [[Incentives]]
-#### 6. [[Remote Auditing]]
+#### 1. [[Decentralized Storage]] -> system design (from Zotero)
+#### 2. [[Durability]] -> Erasure Coding and Proof of Storage
+#### 3. [[Redundancy]] -> Erasure Coding
+#### 4. [[Dispersal]] -> P2P Networks
+#### 5. [[Incentives]] -> Incentives
+#### 6. [[Remote Auditing]] -> Proofs of Storage
 
 ---
 
