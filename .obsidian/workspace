@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "58828f807fb5587f",
+        "id": "8143718c5f145084",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Project Waku.md",
+            "file": "pages/Start Here.md",
             "mode": "source",
             "backlinks": false,
             "source": false
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -71,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Project Waku.md",
+                "file": "pages/Start Here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +102,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "58828f807fb5587f",
+  "active": "8143718c5f145084",
   "lastOpenFiles": [
-    "pages/Project Waku.md",
-    "pages/Set of Implementations.md",
-    "pages/Network of Nodes.md",
-    "pages/Set of Protocols.md",
-    "pages/Recipes.md",
+    "pages/Start Here.md",
+    "README.md",
+    "pages/README.md",
     "pages/Project Logos.md",
-    "pages/Data Model and Concurrency.md",
-    "pages/Staking and Multi-DAG.md",
+    "pages/Node Reputation.md",
+    "pages/Approach.md",
     "pages/Mempool and Subnetworks.md",
-    "pages/Tokenomics.md"
+    "pages/Network Layer.md",
+    "pages/projec tlogos.md",
+    "pages/Consensus.md"
   ]
 }
