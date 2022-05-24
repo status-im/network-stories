@@ -1,7 +1,7 @@
 ---
 title: Understanding Logos Program
 author: 
-dateCreated: 2022-05-07
+dateCreated:: 2022-05-07
 dateUpdated: 2022-05-23
 ---
 

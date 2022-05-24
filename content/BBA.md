@@ -1,7 +1,7 @@
 ---
 title: 
 author:
-dateCreated: 
+dateCreated:: 
 dateUpdated: 2022-05-23
 ---
 
@@ -37,8 +37,8 @@ Binary byzantine consensus concerns the problem of getting a set of distinct pro
 ---
 title: 
 author:
-dateCreated: 
-dateUpdated: @today
+dateCreated:: 
+dateUpdated:
 ---
 
 ---
@@ -76,8 +76,8 @@ FILL IN ABOVE TEMPLATE AND DELETE BELOW -OR- COPY PASTA BELOW AND DELETE ABOVE
 ---
 title: 
 author:
-dateCreated: 
-dateUpdated: @today
+dateCreated:: 
+dateUpdated:
 ---
 
 ---

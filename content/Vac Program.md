@@ -1,8 +1,8 @@
 ---
 title: Understanding Vac Efforts
 author: 
-dateCreated: @today
-dateUpdated: @today 2022-05-07
+dateCreated:
+dateUpdated: 2022-05-07
 ---
 
 # Understanding Vac Efforts

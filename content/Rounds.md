@@ -1,8 +1,8 @@
 ---
 title: 
 author:
-dateCreated: 5-07-2022
-dateUpdated: @today
+dateCreated:: 5-07-2022
+dateUpdated:
 ---
 
 ---
@@ -40,8 +40,8 @@ FILL IN ABOVE TEMPLATE AND DELETE BELOW -OR- COPY PASTA BELOW AND DELETE ABOVE
 ---
 title: 
 author:
-dateCreated: 
-dateUpdated: @today
+dateCreated:: 
+dateUpdated:
 ---
 
 ---

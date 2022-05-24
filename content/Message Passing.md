@@ -2,8 +2,8 @@
 
 title:
 author: 
-dateCreated: @today
-dateUpdated: @today
+dateCreated:
+dateUpdated:
 
 ---
 
@@ -37,8 +37,8 @@ dateUpdated: @today
 
 title:
 author: 
-dateCreated: @today
-dateUpdated: @today
+dateCreated:
+dateUpdated:
 
 ---
 

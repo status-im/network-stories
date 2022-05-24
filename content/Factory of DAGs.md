@@ -2,8 +2,8 @@
 
 title:
 author: 
-dateCreated: @today
-dateUpdated: @today
+dateCreated:
+dateUpdated:
 
 ---
 

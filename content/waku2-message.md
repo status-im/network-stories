@@ -1,8 +1,8 @@
 ---
 title: 
 author:
-dateCreated: 20220520
-dateUpdated: @today
+dateCreated:: 20220520
+dateUpdated:
 
 ---
 
@@ -43,8 +43,8 @@ ELI5: Easy explainer for beginner.
 
 title:
 author:
-dateCreated: @today
-dateUpdated: @today
+dateCreated:
+dateUpdated:
 
 ---
 

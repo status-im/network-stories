@@ -1,7 +1,7 @@
 ---
 title: Understanding Project Codex
 author: 
-dateCreated: 2022-05-07
+dateCreated:: 2022-05-07
 dateUpdated: 2022-05-24
 ---
 
