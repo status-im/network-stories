@@ -25,3 +25,8 @@ A list of Topics necessary to develop better intuition and understanding
 	- Cook Time: X min
 	- Ingredients: 
 		1. [Insert pictures, videos, article links, research papers, etc.]
+- Recipe: [[Subnetworks]]
+	- Prep: [||||||||||]
+	- Cook Time: X min
+	- Ingredients: 
+		1. [Insert pictures, videos, article links, research papers, etc.]
