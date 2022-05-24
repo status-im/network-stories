@@ -1,8 +1,8 @@
 ---
 title: Understanding the Logos Blockchain Whitepaper | A High-Level Conceptual Review of the Logos Blockchain
 author: 
-dateCreated: @today
-dateUpdated: @today 2022-05-07
+dateCreated: 2022-05-07
+dateUpdated: 2022-05-24
 ---
 
 # Understanding the Logos Blockchain Whitepaper
@@ -15,11 +15,14 @@ This document reflects an approach of whitepaper review that combines a rough-dr
 
 ## Necessary Terminology by Layer
 
-### The Six (6) Technology Layers of Logos as a Blockchain
+### The Nine (9) High-Level Categories of Logos as a Blockchain
 
 #### 1. [[Consensus]]
 #### 2. [[Node Reputation]]
-#### 3. [[Network Layer and Mempool]]
-#### 4. [[Staking and Multi-DAG]]
-#### 5. [[Data Model and Concurrency]]
-#### 6. [[Tokenomics]]
+#### 3. [[Network Layer]]
+#### 4. [[Mempool and Subnetworks]]
+#### 5. [[Staking and Multi-DAG]]
+#### 6. [[Data Model and Concurrency]]
+#### 7. [[DAG Communication]]
+#### 8. [[Bootstrapping or Factory]]
+#### 9. [[Tokenomics]]

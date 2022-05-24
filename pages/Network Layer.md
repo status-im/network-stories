@@ -1,20 +1,15 @@
-# Network Layer and Mempool
+---
+dateUpdated: 2022-05-24
+---
 
-### Related: 
+# Network Layer
+A list of Topics necessary to develop better intuition and understanding
 
 - [[Node Discovery]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
 		1. 
-- [[Subnetworks]]
-	- Prep: [||||||||||]
-	- Cook Time: X min
-	- Ingredients:
-		1. 
-	- Design
-	- Implementation
-	- Ideas
 - [[Mempool]]
 	- Prep: [||||||||||]
 	- Cook Time: X min

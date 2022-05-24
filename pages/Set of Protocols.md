@@ -1,3 +1,7 @@
+---
+dateUpdated: 2022-05-24
+---
+
 # Set of Protocols
 
 ## Waku v2 builds on `libp2p`,  

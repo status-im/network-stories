@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bc3b95f36f9e4d7b",
+        "id": "58828f807fb5587f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "pages/Project Waku.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "pages/Project Waku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc3b95f36f9e4d7b",
+  "active": "58828f807fb5587f",
   "lastOpenFiles": [
-    "README.md",
-    "pages/README.md",
-    "pages/assets/Pasted image 20220523051608.png",
-    "pages/assets/Pasted image 20220520215517.png",
-    "pages/assets/Pasted image 20220523051208.png",
-    "pages/Start Here.md",
-    "pages/Logos Program.md",
-    "pages/Instructions.md",
-    "pages/Living Database.md",
-    "pages/BBA.md"
+    "pages/Project Waku.md",
+    "pages/Set of Implementations.md",
+    "pages/Network of Nodes.md",
+    "pages/Set of Protocols.md",
+    "pages/Recipes.md",
+    "pages/Project Logos.md",
+    "pages/Data Model and Concurrency.md",
+    "pages/Staking and Multi-DAG.md",
+    "pages/Mempool and Subnetworks.md",
+    "pages/Tokenomics.md"
   ]
 }

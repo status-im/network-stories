@@ -51,5 +51,14 @@
       ],
       "key": "P"
     }
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": " "
+    }
   ]
 }

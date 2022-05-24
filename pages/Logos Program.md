@@ -1,8 +1,8 @@
 ---
 title: Logos Program
 author: 
-dateCreated: @today
-dateUpdated: @today 2022-05-07
+dateCreated: 2022-05-07
+dateUpdated: 2022-05-23
 ---
 
 # Logos Program
@@ -28,8 +28,8 @@ to [[Add New Topic]] or [[Edit an Existing Topic]] in the notebook
 ## Project Directory
 is a list of Projects involved in the Logos Program
 
-### [[Project Logos]]
 ### [[Project Codex]]
+### [[Project Logos]]
 ### [[Project Waku]]
 
 ---

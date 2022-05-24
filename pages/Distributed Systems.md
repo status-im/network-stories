@@ -1,19 +1,19 @@
 ---
 title: 
 author:
-dateCreated: 5-07-2022
+dateCreated: 
 dateUpdated: @today
 ---
 
 ---
 
-# Topic: Rounds
+# Topic: [Insert Topic] 
 ## Chat: [Live Discussion]
 
 #### Tags: [Relevant Tags to Topic/Concept] see [[Tags]]
 
 ```
-ELI5: PBFT variants have this concept of "rounds" which is all-to-all communication. We'd prefer to have "round-less" communication where nodes do not have to talk to all other nodes on a given network for scalability reasons.`
+ELI5: Simple explainer.
 ```
 ---
 

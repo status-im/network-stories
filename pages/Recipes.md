@@ -6,8 +6,8 @@ basically a Topic with a cooking theme
  a new `Recipe Template` AND/OR a new `Topic Template`
  
 You can:
-1) Use command Ctrl+T or Cmd+T to insert a new [[Recipe Template]] (as seen below) for a new Topic. 
-2) Then you can use command Ctrl+T or Cmd+T again to populate the details of the new topic with the [[Topic Template]].
+1) Use command Ctrl+T or Cmd+T to insert a new [[1. Recipe Template]] (as seen below) for a new Topic. 
+2) Then you can use command Ctrl+T or Cmd+T again to populate the details of the new topic with the [[3. Long Topic Template]].
 
 ```
 - Recipe: Topic

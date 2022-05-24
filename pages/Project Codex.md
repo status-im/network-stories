@@ -1,8 +1,8 @@
 ---
 title: Understanding Codex Efforts
 author: 
-dateCreated: @today
-dateUpdated: @today 2022-05-07
+dateCreated: 2022-05-07
+dateUpdated: 2022-05-23
 ---
 
 # Understanding Codex Efforts
@@ -18,16 +18,20 @@ Dmitriy Ryajov
 
 ## Necessary Terminology
 
-### Decentralized Storage
-### Durability
-### Redundancy
-### Dispersal (FT or )
-### Incentives
-### Remote Auditing
+### The Six (6) Technology Layers of Codex as a [insert here | Decentralized Storage Solution?]
 
-FT -> 
+#### 1. [[Decentralized Storage]]
+#### 2. [[Durability]]
+#### 3. [[Redundancy]]
+#### 4. [[Dispersal]]
+#### 5. [[Incentives]]
+#### 6. [[Remote Auditing]]
+
+Comments (Leo's comments re: organization of High-Level Categories)
+FT -> ???
 BFT -> Incentives + Remote Auditing
 
+### Unsorted Pages:
 [[storage]]
 [[data]]
 [[durability]] 

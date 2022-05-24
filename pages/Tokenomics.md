@@ -1,6 +1,9 @@
-# Tokenomics
+---
+dateUpdated: 2022-05-24
+---
 
-### Related: 
+# Tokenomics
+A list of Topics necessary to develop better intuition and understanding
 
 - [[Fees]]
 	- Prep: [||||||||||]

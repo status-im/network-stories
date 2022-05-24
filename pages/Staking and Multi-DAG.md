@@ -1,88 +1,66 @@
+---
+dateUpdated: 2022-05-24
+---
+
 # Staking and Multi-DAG
+A list of Topics necessary to develop better intuition and understanding
 
-### Related: 
-
-- [[Factory of DAGs]]
+- Recipe: [[Bridge (Intermediary) Nodes]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
 		1. 
-	- Concept
-	- Algorithm
-- [[Sub-DAG]]
+- Recipe: [[Gravity]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
 		1. 
-- [[Cross-DAG]]
+- Recipe: [[Application-Level User-Driven]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
 		1. 
-- [[Bridge (Intermediary) Nodes]]
+- Recipe: [[Direct Communication Channel]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
 		1. 
-- [[Gravity]]
-	- Prep: [||||||||||]
-	- Cook Time: X min
-	- Ingredients:
-		1. 
-- [[Application-Level User-Driven]]
-	- Prep: [||||||||||]
-	- Cook Time: X min
-	- Ingredients:
-		1. 
-- [[Direct Communication Channel]]
-	- Prep: [||||||||||]
-	- Cook Time: X min
-	- Ingredients:
-		1. 
-- [[Direct Communication VGER]]
+- Recipe: [[Direct Communication VGER]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
 		1. 
 - Challenges
-	- Prep: [||||||||||]
-	- Cook Time: X min
-	- Ingredients:
-		1. 
 	- [[Probabilistic finality]] and [[cross-network communication]]
 	- [[Network Partitioning]] and [[Forks]]
 	- [[Weak Subjectivity]] - Reputation of nodes matters to clients. Nodes are clients of other networks.
 	- [[Verifying Weights in Staking]]
 	- [[Glacier Algorithm Quiesces]]
-- [[Approach]]
-	- Prep: [||||||||||]
-	- Cook Time: X min
-	- Ingredients:
-		1. 
+- Approach
 	1. [[Deterministic Finality]]
 	2. [[Secondary Consensus Protocol]] (form local opinion on external DAG)
 	3. [[Intermediary DAG]] (Intersection of nodes participating mutually in common structures)
-- [[Vertex Sealing]]
+- Recipe: [[Vertex Sealing]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
 		1. 
-- [[XSub]] (Cross-sub-DAG communication)
+- Recipe: [[XSub]] (Cross-sub-DAG communication)
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
 		1. 
-- [[XDAG]] (Cross-DAG communication)
+- Recipe: [[XDAG]] (Cross-DAG communication)
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
 		1. 
-- [[XDAG Fees]]
+- Recipe: [[XDAG Fees]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
 		1. 
-- [[Communication Patterns]]
+- Recipe: [[Communication Patterns]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:
@@ -90,7 +68,7 @@
 	- Direct
 	- User-Coordinated Channel
 	- Sub-DAG-Coordinated Channel
-- [[Stake Sub-DAG]]
+- Recipe: [[Stake Sub-DAG]]
 	- Prep: [||||||||||]
 	- Cook Time: X min
 	- Ingredients:

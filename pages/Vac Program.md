@@ -62,7 +62,7 @@ ___
 [[privacy ]]
 [[messaging ]]
 [[secure-messaging ]]
-[[censorship-resistant ]]
+[[Censorship-Resistant ]]
 [[regulation ]]
 [[credible-neutrality ]]
 [[adoption ]]
