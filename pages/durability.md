@@ -10,3 +10,6 @@ A list of [[Recipes]] necessary to develop better intuition and understanding
 	- Cook Time: X min
 	- Ingredients: 
 		1. [Insert pictures, videos, article links, research papers, etc.]
+
+
+RAID, replication, bandwidth, 
