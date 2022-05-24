@@ -19,4 +19,4 @@ Discord Server: https://discord.gg/f9zW9QpfXW
 Text-Channels: #nwaku, #js-waku, #go-waku, #waku, #waku-network, #waku-outreach, #waku-rs, #waku-react-native
 
 ## Popular Tags Linking Topics
-#How-To 
+#How-To

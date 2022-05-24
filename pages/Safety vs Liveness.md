@@ -1,19 +1,25 @@
 ---
 title: 
 author:
-dateCreated: 5-07-2022
+dateCreated: 
 dateUpdated: @today
 ---
 
 ---
 
-# Topic: Rounds
+# Topic: Safety vs Liveness
 ## Chat: [Live Discussion]
 
 #### Tags: [Relevant Tags to Topic/Concept] see [[Tags]]
 
 ```
-ELI5: PBFT variants have this concept of "rounds" which is all-to-all communication. We'd prefer to have "round-less" communication where nodes do not have to talk to all other nodes on a given network for scalability reasons.`
+ELI5: 
+
+Consensus protocols provide two guarantees with respect to order and timing:
+
+Safety: As long as the protocol does not have more than some threshold of faulty participants, other participants cannot convince a client to accept an incorrect or invalid message.
+
+Liveness: So long as there is always at least one transaction suitable for inclusion that has not been deemed final by any properly-operating nodes, the set of transactions deemed final by at least one properly-operating node will increase in number. | As long as the protocol does not have more than some threshold of faulty participants, other participants cannot indefinitely delay the acceptance of a correct message.
 ```
 ---
 
@@ -32,42 +38,3 @@ ELI5: PBFT variants have this concept of "rounds" which is all-to-all communicat
 	[Easy low-hanging fruit for marketing or communication that makes our implementation clearly different/better.]
 - Additional Information:
 	[Quickly share unread but potentially valuable resources and comments here to be re-read by someone else who can integrate them.]
-
----
-
-FILL IN ABOVE TEMPLATE AND DELETE BELOW -OR- COPY PASTA BELOW AND DELETE ABOVE
-
----
-title: 
-author:
-dateCreated: 
-dateUpdated: @today
----
-
----
-
-# Topic:  
-## Chat: 
-
-#### Tags: 
-
-```
-ELI5: Simple explainer.
-```
----
-
-## Overview
-
-#### Operating Definition:
-[Definition here]<sup>1</sup>
-
-#### Principles
-N/A
-
-#### Implementation
-- Description and Explanation
-	N/A
-- Key Differences:
-	N/A
-- Additional Information:
-	N/A

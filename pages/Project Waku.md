@@ -17,7 +17,7 @@ dateUpdated: @today 2022-05-07
 
 ## Necessary Terminology by Perspective
 
-### The Three (3) Perspectives of Waku v2
+### The Three (3) High-Level Categories of Waku (v2)
 
 #### 1. [[Set of Protocols]]
 #### 2. [[Network of Nodes]]
@@ -40,7 +40,7 @@ ___
 [[privacy]]
 [[messaging]]
 [[secure-messaging]]
-[[censorship-resistant]]
+[[Censorship-Resistant]]
 [[regulation]]
 [[credible-neutrality]]
 [[adoption]]

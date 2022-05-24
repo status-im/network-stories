@@ -1,6 +1,9 @@
-# Node Reputation
+---
+dateUpdated: 2022-05-24
+---
 
-### Related: 
+# Node Reputation
+A list of Topics necessary to develop better intuition and understanding
 
 - [[Ikingut (Reputation Algorithm)]]
 	- Prep: [||||||||||]

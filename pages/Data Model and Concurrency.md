@@ -1,6 +1,9 @@
-# Data Model and Concurrency
+---
+dateUpdated: 2022-05-24
+---
 
-### Related:
+# Data Model and Concurrency
+A list of Topics necessary to develop better intuition and understanding
 
 - Reference Work
 	- [[eUTXO]] (Direct extension of the basic UTXO model)
