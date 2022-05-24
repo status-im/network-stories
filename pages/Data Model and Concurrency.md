@@ -3,7 +3,7 @@ dateUpdated: 2022-05-24
 ---
 
 # Data Model and Concurrency
-A list of Topics necessary to develop better intuition and understanding
+A list of [[Recipes]] necessary to develop better intuition and understanding
 
 - Reference Work
 	- [[eUTXO]] (Direct extension of the basic UTXO model)

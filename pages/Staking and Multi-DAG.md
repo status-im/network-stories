@@ -3,7 +3,7 @@ dateUpdated: 2022-05-24
 ---
 
 # Staking and Multi-DAG
-A list of Topics necessary to develop better intuition and understanding
+A list of [[Recipes]] necessary to develop better intuition and understanding
 
 - Recipe: [[Bridge (Intermediary) Nodes]]
 	- Prep: [||||||||||]

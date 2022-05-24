@@ -22,6 +22,7 @@ For now it’s important to have a high-level understanding of what each element
 -   the dotted boxes show what content topics (i.e. applications) a node is interested in. A node that is purely providing a service to the network might not care.
 -   there are also dashed lines to “auxiliary networks”. These represents breakouts from the Waku network to auxiliary protocols, such as bridging to Waku v1, DNS used for discovery, etc.
 
+Read this on how to make new [[Recipes]] or how to Cook them.
 
 - Recipe: Topic
 	- Prep: [||||||||||]

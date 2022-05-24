@@ -3,7 +3,7 @@ dateUpdated: 2022-05-24
 ---
 
 # DAG Communication
-A list of Topics necessary to develop better intuition and understanding
+A list of [[Recipes]] necessary to develop better intuition and understanding
 
 - Recipe: [[Factory of DAGs]]
 	- Prep: [||||||||||]

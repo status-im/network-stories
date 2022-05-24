@@ -105,14 +105,14 @@
   "active": "8143718c5f145084",
   "lastOpenFiles": [
     "pages/Start Here.md",
-    "README.md",
-    "pages/README.md",
+    "pages/Data Model and Concurrency.md",
     "pages/Project Logos.md",
+    "pages/Set of Protocols.md",
+    "pages/Project Waku.md",
+    "pages/Network of Nodes.md",
+    "pages/Recipes.md",
     "pages/Node Reputation.md",
-    "pages/Approach.md",
-    "pages/Mempool and Subnetworks.md",
-    "pages/Network Layer.md",
-    "pages/projec tlogos.md",
-    "pages/Consensus.md"
+    "Bootstrapping /Bootstrapping or Factory.md",
+    "pages/Logos Program.md"
   ]
 }
