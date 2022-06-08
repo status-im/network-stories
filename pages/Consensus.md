@@ -5,7 +5,7 @@ dateUpdated: 2022-05-24
 # Consensus
 A list of [[Recipes]] necessary to develop better intuition and understanding
 
-- Recipe: [[BBA]]
+- Recipe: [[Binary Byzantine Agreement]]
 	- Prep: [||        ]
 	- Cook Time: 5 min
 	- Ingredients:
@@ -15,13 +15,13 @@ A list of [[Recipes]] necessary to develop better intuition and understanding
 	- Cook Time: X min
 	- Ingredients:
 		1. https://ieeexplore.ieee.org/document/9546485
-- Recipe: [[DAGs]]
+- Recipe: [[Directed Acyclic Graphs]]
 	- Prep: [|        ]
 	- Cook Time: X min
 	- Ingredients:
 		1. https://en.wikipedia.org/wiki/Directed_acyclic_graph
 		2. https://tokens-economy.gitbook.io/consensus/chain-based-dag/direct-acyclic-graph-tangle-dag
-- Recipe: [[CIC]]
+- Recipe: [[Common Interest Community]]
 	- Prep: [|        ]
 	- Cook Time: X min
 	- Ingredients:
