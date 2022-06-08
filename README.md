@@ -1,8 +1,9 @@
 # network-stories
 End User stories of the "Status Network"
 
-![[Pasted image 20220523051608.png]]
+Note: This repo is updated only for information now and content will be viewable in-browser using Quartz here: https://github.com/status-im/logos-mindmap
 
+![chefchibi](https://github.com/status-im/network-stories/blob/master/pages/assets/Pasted%20image%2020220523051608.png)
 
 ## Getting Started
 Begin your unique Master Chef adventures by making your very own first Recipe below:
