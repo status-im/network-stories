@@ -19,6 +19,7 @@ A movement to create a self-sovereign crypto network: a decentralised technology
 
 
 The world's first crypto-state.
+
 ```
 
 >**"We build everything on top of consensus."**

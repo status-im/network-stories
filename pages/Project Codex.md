@@ -23,11 +23,13 @@ Dmitriy Ryajov
 ### The Six (6) High-Level Categories of Codex as a Decentralized Durability Engine
 
 #### 1. [[Decentralized Storage]] -> system design (from Zotero)
-#### 2. [[Durability]] -> Erasure Coding and Proof of Storage
-#### 3. [[Redundancy]] -> Erasure Coding
-#### 4. [[Dispersal]] -> P2P Networks
-#### 5. [[Incentives]] -> Incentives
-#### 6. [[Remote Auditing]] -> Proofs of Storage
+#### 2. [[Durability]] -> Erasure Coding and Proof of Storage (from Zotero)
+#### 3. [[Redundancy]] -> Erasure Coding (from Zotero)
+#### 4. [[Dispersal]] -> P2P Networks (from Zotero)
+#### 5. [[Incentives]] -> Incentives (from Zotero)
+#### 6. [[Remote Auditing]] -> Proofs of Storage (from Zotero)
+
+https://www.zotero.org/groups/4402401/dagger/collections/YXUWAHZ6/items/ZKGLJVW6/item-list
 
 ---
 
